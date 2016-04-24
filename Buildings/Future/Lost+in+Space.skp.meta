@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: e3090da57e8a09c46b118400ae37729e
+timeCreated: 1461406228
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000150000001600000017000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 852537e3e568ed9091c95b4e841a5329
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 22.81624, y: 8.748246, z: 8.357626}
+      lookAt: {x: -0.96434987, y: 2.7413378, z: 7.5950828}
+      up: {x: -0.24466081, y: 0.969577, z: -0.007845236}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cargo Doors
+    100002: Dome
+    100004: Dome 1
+    100006: Elevator
+    100008: Group 16
+    100010: Group 2
+    100012: J2 in flight
+    100014: J2 on land
+    100016: Landing struts
+    100018: //RootNode
+    100020: Lower dome
+    100022: Lower dome 1
+    100024: Open j2
+    400000: Cargo Doors
+    400002: Dome
+    400004: Dome 1
+    400006: Elevator
+    400008: Group 16
+    400010: Group 2
+    400012: J2 in flight
+    400014: J2 on land
+    400016: Landing struts
+    400018: //RootNode
+    400020: Lower dome
+    400022: Lower dome 1
+    400024: Open j2
+    2300000: Cargo Doors
+    2300002: Dome
+    2300004: Dome 1
+    2300006: Elevator
+    2300008: Group 16
+    2300010: Group 2
+    2300012: J2 in flight
+    2300014: Landing struts
+    2300016: Lower dome
+    2300018: Lower dome 1
+    2300020: Open j2
+    3300000: Cargo Doors
+    3300002: Dome
+    3300004: Dome 1
+    3300006: Elevator
+    3300008: Group 16
+    3300010: Group 2
+    3300012: J2 in flight
+    3300014: Landing struts
+    3300016: Lower dome
+    3300018: Lower dome 1
+    3300020: Open j2
+    4300000: Mesh Group 2
+    4300002: Mesh Dome
+    4300004: Mesh Lower dome
+    4300006: Mesh Open j2
+    4300008: Mesh Cargo Doors
+    4300010: Mesh Elevator
+    4300012: Mesh Landing struts
+    4300014: Mesh Group 16
+    4300016: Mesh J2 in flight
+    4300018: Mesh Dome
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

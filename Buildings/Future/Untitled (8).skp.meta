@@ -1,0 +1,1855 @@
+fileFormatVersion: 2
+guid: 7cec47f2c8709c54691a6ec71e0bdc5b
+timeCreated: 1461405623
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000c7020000c8020000c9020000ca020000cb020000cc020000cd020000ce020000cf020000d0020000d1020000d2020000d3020000d4020000d5020000d6020000d7020000d8020000d9020000da020000db020000dc020000dd020000de020000df020000e0020000e1020000e2020000e3020000e4020000e5020000e6020000e7020000e8020000e9020000ea020000eb020000ec020000ed020000ee020000ef020000f0020000f1020000f2020000f3020000f4020000f5020000f6020000f7020000f8020000f9020000fa020000fb020000fc020000fd020000fe020000ff020000000300000103000002030000030300000403000005030000060300000703000008030000090300000a0300000b0300000c0300000d0300000e0300000f030000100300001103000012030000130300001403000015030000160300001703000018030000190300001a0300001b0300001c0300001d0300001e0300001f030000200300002103000022030000230300002403000025030000260300002703000028030000290300002a0300002b0300002c0300002d0300002e0300002f030000300300003103000032030000330300003403000035030000
+  assetHash:
+    serializedVersion: 2
+    Hash: d5238d4c2c11c86184c51580f41cf186
+  longitude: -95.36370602709832
+  latitude: 29.760323449683977
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 89.30167, y: -4.606784, z: -150.157}
+      lookAt: {x: -446.66733, y: 324.30234, z: 526.93695}
+      up: {x: 0.22091462, y: 0.93451023, z: -0.27908322}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 12" LED traffic signal green
+    100002: 12" LED traffic signal green 1
+    100004: 12" LED traffic signal green 10
+    100006: 12" LED traffic signal green 11
+    100008: 12" LED traffic signal green 12
+    100010: 12" LED traffic signal green 13
+    100012: 12" LED traffic signal green 2
+    100014: 12" LED traffic signal green 3
+    100016: 12" LED traffic signal green 4
+    100018: 12" LED traffic signal green 5
+    100020: 12" LED traffic signal green 6
+    100022: 12" LED traffic signal green 7
+    100024: 12" LED traffic signal green 8
+    100026: 12" LED traffic signal green 9
+    100028: 12" LED traffic signal red
+    100030: 12" LED traffic signal red 1
+    100032: 12" LED traffic signal red 10
+    100034: 12" LED traffic signal red 11
+    100036: 12" LED traffic signal red 12
+    100038: 12" LED traffic signal red 13
+    100040: 12" LED traffic signal red 14
+    100042: 12" LED traffic signal red 15
+    100044: 12" LED traffic signal red 16
+    100046: 12" LED traffic signal red 17
+    100048: 12" LED traffic signal red 18
+    100050: 12" LED traffic signal red 19
+    100052: 12" LED traffic signal red 2
+    100054: 12" LED traffic signal red 3
+    100056: 12" LED traffic signal red 4
+    100058: 12" LED traffic signal red 5
+    100060: 12" LED traffic signal red 6
+    100062: 12" LED traffic signal red 7
+    100064: 12" LED traffic signal red 8
+    100066: 12" LED traffic signal red 9
+    100068: Bryce
+    100070: caution signal
+    100072: caution signal 1
+    100074: caution signal 2
+    100076: caution signal 3
+    100078: CRISISLER
+    100080: CRISISLER 1
+    100082: Double slip fitter
+    100084: Double slip fitter 1
+    100086: Double slip fitter 10
+    100088: Double slip fitter 2
+    100090: Double slip fitter 3
+    100092: Double slip fitter 4
+    100094: Double slip fitter 5
+    100096: Double slip fitter 6
+    100098: Double slip fitter 7
+    100100: Double slip fitter 8
+    100102: Double slip fitter 9
+    100104: Double slip fitter#1
+    100106: Double slip fitter#1 1
+    100108: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+    100110: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      1
+    100112: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      2
+    100114: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      3
+    100116: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      4
+    100118: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      5
+    100120: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+    100122: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      1
+    100124: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      2
+    100126: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      3
+    100128: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      4
+    100130: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      5
+    100132: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      6
+    100134: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      7
+    100136: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      8
+    100138: Flag
+    100140: Flag 1
+    100142: Flag 10
+    100144: Flag 2
+    100146: Flag 3
+    100148: Flag 4
+    100150: Flag 5
+    100152: Flag 6
+    100154: Flag 7
+    100156: Flag 8
+    100158: Flag 9
+    100160: Flag_Ropes
+    100162: Flag_Ropes 1
+    100164: Flag_Ropes 10
+    100166: Flag_Ropes 2
+    100168: Flag_Ropes 3
+    100170: Flag_Ropes 4
+    100172: Flag_Ropes 5
+    100174: Flag_Ropes 6
+    100176: Flag_Ropes 7
+    100178: Flag_Ropes 8
+    100180: Flag_Ropes 9
+    100182: green l
+    100184: green l 1
+    100186: green l 2
+    100188: Group 10
+    100190: Group 100
+    100192: Group 102
+    100194: Group 104
+    100196: Group 106
+    100198: Group 108
+    100200: Group 110
+    100202: Group 112
+    100204: Group 114
+    100206: Group 12
+    100208: Group 132
+    100210: Group 133
+    100212: Group 14
+    100214: Group 16
+    100216: Group 18
+    100218: Group 2
+    100220: Group 20
+    100222: Group 22
+    100224: Group 24
+    100226: Group 26
+    100228: Group 28
+    100230: Group 30
+    100232: Group 32
+    100234: Group 34
+    100236: Group 36
+    100238: Group 38
+    100240: Group 4
+    100242: Group 40
+    100244: Group 42
+    100246: Group 44
+    100248: Group 46
+    100250: Group 48
+    100252: Group 50
+    100254: Group 52
+    100256: Group 54
+    100258: Group 56
+    100260: Group 58
+    100262: Group 6
+    100264: Group 60
+    100266: Group 62
+    100268: Group 64
+    100270: Group 66
+    100272: Group 68
+    100274: Group 70
+    100276: Group 72
+    100278: Group 74
+    100280: Group 76
+    100282: Group 78
+    100284: Group 8
+    100286: Group 80
+    100288: Group 82
+    100290: Group 84
+    100292: Group 86
+    100294: Group 88
+    100296: Group 90
+    100298: Group 92
+    100300: Group 94
+    100302: Group 96
+    100304: Group 98
+    100306: HOTEL
+    100308: HOTEL 1
+    100310: Lamp01
+    100312: Lamp01 1
+    100314: LampBase
+    100316: LampBase 1
+    100318: LampBase 10
+    100320: LampBase 2
+    100322: LampBase 3
+    100324: LampBase 4
+    100326: LampBase 5
+    100328: LampBase 6
+    100330: LampBase 7
+    100332: LampBase 8
+    100334: LampBase 9
+    100336: LED caution beacons.
+    100338: LED caution beacons. 1
+    100340: LED light green
+    100342: LED light green 1
+    100344: LED light green 10
+    100346: LED light green 11
+    100348: LED light green 12
+    100350: LED light green 13
+    100352: LED light green 2
+    100354: LED light green 3
+    100356: LED light green 4
+    100358: LED light green 5
+    100360: LED light green 6
+    100362: LED light green 7
+    100364: LED light green 8
+    100366: LED light green 9
+    100368: LED light green#1
+    100370: LED light green#1 1
+    100372: LED light green#1 2
+    100374: LED light green#1 3
+    100376: LED light green#1 4
+    100378: LED light green#1 5
+    100380: LEd light red
+    100382: LEd light red 1
+    100384: LEd light red 10
+    100386: LEd light red 11
+    100388: LEd light red 12
+    100390: LEd light red 13
+    100392: LEd light red 14
+    100394: LEd light red 15
+    100396: LEd light red 16
+    100398: LEd light red 17
+    100400: LEd light red 18
+    100402: LEd light red 19
+    100404: LEd light red 2
+    100406: LEd light red 20
+    100408: LEd light red 21
+    100410: LEd light red 22
+    100412: LEd light red 23
+    100414: LEd light red 24
+    100416: LEd light red 25
+    100418: LEd light red 26
+    100420: LEd light red 27
+    100422: LEd light red 28
+    100424: LEd light red 29
+    100426: LEd light red 3
+    100428: LEd light red 30
+    100430: LEd light red 31
+    100432: LEd light red 32
+    100434: LEd light red 33
+    100436: LEd light red 34
+    100438: LEd light red 35
+    100440: LEd light red 36
+    100442: LEd light red 37
+    100444: LEd light red 38
+    100446: LEd light red 39
+    100448: LEd light red 4
+    100450: LEd light red 40
+    100452: LEd light red 41
+    100454: LEd light red 42
+    100456: LEd light red 43
+    100458: LEd light red 44
+    100460: LEd light red 45
+    100462: LEd light red 46
+    100464: LEd light red 47
+    100466: LEd light red 48
+    100468: LEd light red 49
+    100470: LEd light red 5
+    100472: LEd light red 50
+    100474: LEd light red 51
+    100476: LEd light red 52
+    100478: LEd light red 53
+    100480: LEd light red 54
+    100482: LEd light red 55
+    100484: LEd light red 56
+    100486: LEd light red 57
+    100488: LEd light red 58
+    100490: LEd light red 59
+    100492: LEd light red 6
+    100494: LEd light red 60
+    100496: LEd light red 61
+    100498: LEd light red 62
+    100500: LEd light red 63
+    100502: LEd light red 64
+    100504: LEd light red 65
+    100506: LEd light red 66
+    100508: LEd light red 67
+    100510: LEd light red 7
+    100512: LEd light red 8
+    100514: LEd light red 9
+    100516: LEd light red lit
+    100518: LEd light red lit 1
+    100520: LEd light red lit 10
+    100522: LEd light red lit 11
+    100524: LEd light red lit 12
+    100526: LEd light red lit 13
+    100528: LEd light red lit 14
+    100530: LEd light red lit 15
+    100532: LEd light red lit 16
+    100534: LEd light red lit 17
+    100536: LEd light red lit 18
+    100538: LEd light red lit 19
+    100540: LEd light red lit 2
+    100542: LEd light red lit 3
+    100544: LEd light red lit 4
+    100546: LEd light red lit 5
+    100548: LEd light red lit 6
+    100550: LEd light red lit 7
+    100552: LEd light red lit 8
+    100554: LEd light red lit 9
+    100556: LEd light red lit#1
+    100558: LEd light red#1
+    100560: LEd light red#1 1
+    100562: LEd light red#1 10
+    100564: LEd light red#1 11
+    100566: LEd light red#1 12
+    100568: LEd light red#1 13
+    100570: LEd light red#1 2
+    100572: LEd light red#1 3
+    100574: LEd light red#1 4
+    100576: LEd light red#1 5
+    100578: LEd light red#1 6
+    100580: LEd light red#1 7
+    100582: LEd light red#1 8
+    100584: LEd light red#1 9
+    100586: LED traffic signal green
+    100588: LED traffic signal green 1
+    100590: LED traffic signal green 2
+    100592: LED traffic signal green 3
+    100594: LED traffic signal green 4
+    100596: LED traffic signal green 5
+    100598: light#2
+    100600: light#2 1
+    100602: light#2 2
+    100604: light#2 3
+    100606: Light_Street_Decorative_18_#1
+    100608: light_street_decoritive
+    100610: Mccain PV thru signal green
+    100612: Mccain PV thru signal green 1
+    100614: Mccain PV traffic signal green
+    100616: Mccain PV traffic signal green 1
+    100618: Mccain PV traffic signal green 2
+    100620: Modern Skyscraper
+    100622: no outlet sign
+    100624: pv green 1
+    100626: pv green 1 1
+    100628: pv red 1
+    100630: pv red 1 1
+    100632: pv yelow 1
+    100634: pv yelow 1 1
+    100636: red d
+    100638: red d 1
+    100640: red d 2
+    100642: red LED signal
+    100644: Road Barricade
+    100646: Road Barricade w/ Road Closed sign
+    100648: ROAD CLOSED
+    100650: Road Closed Ahea
+    100652: Road Closed Ahead Sign
+    100654: Road closed sign
+    100656: Susan
+    100658: traffic signal slip fitter
+    100660: traffic signal slip fitter 1
+    100662: traffic signal slip fitter 10
+    100664: traffic signal slip fitter 11
+    100666: traffic signal slip fitter 12
+    100668: traffic signal slip fitter 13
+    100670: traffic signal slip fitter 14
+    100672: traffic signal slip fitter 15
+    100674: traffic signal slip fitter 16
+    100676: traffic signal slip fitter 17
+    100678: traffic signal slip fitter 18
+    100680: traffic signal slip fitter 19
+    100682: traffic signal slip fitter 2
+    100684: traffic signal slip fitter 20
+    100686: traffic signal slip fitter 21
+    100688: traffic signal slip fitter 3
+    100690: traffic signal slip fitter 4
+    100692: traffic signal slip fitter 5
+    100694: traffic signal slip fitter 6
+    100696: traffic signal slip fitter 7
+    100698: traffic signal slip fitter 8
+    100700: traffic signal slip fitter 9
+    100702: traffic signal slip fitter#1
+    100704: traffic signal slip fitter#1 1
+    100706: traffic signal slip fitter#1 2
+    100708: traffic signal slip fitter#1 3
+    100710: traffic_arm#1
+    100712: traffic_arm#1 1
+    100714: traffic_sunshield
+    100716: traffic_sunshield 1
+    100718: traffic_sunshield 10
+    100720: traffic_sunshield 11
+    100722: traffic_sunshield 12
+    100724: traffic_sunshield 13
+    100726: traffic_sunshield 14
+    100728: traffic_sunshield 15
+    100730: traffic_sunshield 16
+    100732: traffic_sunshield 17
+    100734: traffic_sunshield 18
+    100736: traffic_sunshield 19
+    100738: traffic_sunshield 2
+    100740: traffic_sunshield 20
+    100742: traffic_sunshield 21
+    100744: traffic_sunshield 22
+    100746: traffic_sunshield 23
+    100748: traffic_sunshield 24
+    100750: traffic_sunshield 25
+    100752: traffic_sunshield 26
+    100754: traffic_sunshield 27
+    100756: traffic_sunshield 28
+    100758: traffic_sunshield 29
+    100760: traffic_sunshield 3
+    100762: traffic_sunshield 30
+    100764: traffic_sunshield 31
+    100766: traffic_sunshield 32
+    100768: traffic_sunshield 33
+    100770: traffic_sunshield 34
+    100772: traffic_sunshield 35
+    100774: traffic_sunshield 36
+    100776: traffic_sunshield 37
+    100778: traffic_sunshield 38
+    100780: traffic_sunshield 39
+    100782: traffic_sunshield 4
+    100784: traffic_sunshield 40
+    100786: traffic_sunshield 5
+    100788: traffic_sunshield 6
+    100790: traffic_sunshield 7
+    100792: traffic_sunshield 8
+    100794: traffic_sunshield 9
+    100796: traffic_sunshield#1
+    100798: traffic_sunshield#1 1
+    100800: traffic_sunshield#2
+    100802: traffic_sunshield#2 1
+    100804: traffic_sunshield#2 2
+    100806: traffic_sunshield#2 3
+    100808: traffic_sunshield#3
+    100810: traffic_sunshield#3 1
+    100812: traffic_sunshield#3 2
+    100814: TrafficSignal_Pedestrian_Don_t Walk
+    100816: untextured back-east style traffic signal armpole
+    100818: untextured back-east style traffic signal armpole 1
+    100820: untextured back-east style traffic signal armpole 10
+    100822: untextured back-east style traffic signal armpole 2
+    100824: untextured back-east style traffic signal armpole 3
+    100826: untextured back-east style traffic signal armpole 4
+    100828: untextured back-east style traffic signal armpole 5
+    100830: untextured back-east style traffic signal armpole 6
+    100832: untextured back-east style traffic signal armpole 7
+    100834: untextured back-east style traffic signal armpole 8
+    100836: untextured back-east style traffic signal armpole 9
+    100838: //RootNode
+    100840: yellow d
+    100842: yellow d 1
+    100844: yellow d 2
+    100846: yellow l
+    100848: yellow l 1
+    100850: yellow led d
+    100852: yellow led d 1
+    400000: 12" LED traffic signal green
+    400002: 12" LED traffic signal green 1
+    400004: 12" LED traffic signal green 10
+    400006: 12" LED traffic signal green 11
+    400008: 12" LED traffic signal green 12
+    400010: 12" LED traffic signal green 13
+    400012: 12" LED traffic signal green 2
+    400014: 12" LED traffic signal green 3
+    400016: 12" LED traffic signal green 4
+    400018: 12" LED traffic signal green 5
+    400020: 12" LED traffic signal green 6
+    400022: 12" LED traffic signal green 7
+    400024: 12" LED traffic signal green 8
+    400026: 12" LED traffic signal green 9
+    400028: 12" LED traffic signal red
+    400030: 12" LED traffic signal red 1
+    400032: 12" LED traffic signal red 10
+    400034: 12" LED traffic signal red 11
+    400036: 12" LED traffic signal red 12
+    400038: 12" LED traffic signal red 13
+    400040: 12" LED traffic signal red 14
+    400042: 12" LED traffic signal red 15
+    400044: 12" LED traffic signal red 16
+    400046: 12" LED traffic signal red 17
+    400048: 12" LED traffic signal red 18
+    400050: 12" LED traffic signal red 19
+    400052: 12" LED traffic signal red 2
+    400054: 12" LED traffic signal red 3
+    400056: 12" LED traffic signal red 4
+    400058: 12" LED traffic signal red 5
+    400060: 12" LED traffic signal red 6
+    400062: 12" LED traffic signal red 7
+    400064: 12" LED traffic signal red 8
+    400066: 12" LED traffic signal red 9
+    400068: Bryce
+    400070: caution signal
+    400072: caution signal 1
+    400074: caution signal 2
+    400076: caution signal 3
+    400078: CRISISLER
+    400080: CRISISLER 1
+    400082: Double slip fitter
+    400084: Double slip fitter 1
+    400086: Double slip fitter 10
+    400088: Double slip fitter 2
+    400090: Double slip fitter 3
+    400092: Double slip fitter 4
+    400094: Double slip fitter 5
+    400096: Double slip fitter 6
+    400098: Double slip fitter 7
+    400100: Double slip fitter 8
+    400102: Double slip fitter 9
+    400104: Double slip fitter#1
+    400106: Double slip fitter#1 1
+    400108: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+    400110: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      1
+    400112: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      2
+    400114: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      3
+    400116: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      4
+    400118: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      5
+    400120: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+    400122: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      1
+    400124: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      2
+    400126: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      3
+    400128: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      4
+    400130: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      5
+    400132: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      6
+    400134: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      7
+    400136: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      8
+    400138: Flag
+    400140: Flag 1
+    400142: Flag 10
+    400144: Flag 2
+    400146: Flag 3
+    400148: Flag 4
+    400150: Flag 5
+    400152: Flag 6
+    400154: Flag 7
+    400156: Flag 8
+    400158: Flag 9
+    400160: Flag_Ropes
+    400162: Flag_Ropes 1
+    400164: Flag_Ropes 10
+    400166: Flag_Ropes 2
+    400168: Flag_Ropes 3
+    400170: Flag_Ropes 4
+    400172: Flag_Ropes 5
+    400174: Flag_Ropes 6
+    400176: Flag_Ropes 7
+    400178: Flag_Ropes 8
+    400180: Flag_Ropes 9
+    400182: green l
+    400184: green l 1
+    400186: green l 2
+    400188: Group 10
+    400190: Group 100
+    400192: Group 102
+    400194: Group 104
+    400196: Group 106
+    400198: Group 108
+    400200: Group 110
+    400202: Group 112
+    400204: Group 114
+    400206: Group 12
+    400208: Group 132
+    400210: Group 133
+    400212: Group 14
+    400214: Group 16
+    400216: Group 18
+    400218: Group 2
+    400220: Group 20
+    400222: Group 22
+    400224: Group 24
+    400226: Group 26
+    400228: Group 28
+    400230: Group 30
+    400232: Group 32
+    400234: Group 34
+    400236: Group 36
+    400238: Group 38
+    400240: Group 4
+    400242: Group 40
+    400244: Group 42
+    400246: Group 44
+    400248: Group 46
+    400250: Group 48
+    400252: Group 50
+    400254: Group 52
+    400256: Group 54
+    400258: Group 56
+    400260: Group 58
+    400262: Group 6
+    400264: Group 60
+    400266: Group 62
+    400268: Group 64
+    400270: Group 66
+    400272: Group 68
+    400274: Group 70
+    400276: Group 72
+    400278: Group 74
+    400280: Group 76
+    400282: Group 78
+    400284: Group 8
+    400286: Group 80
+    400288: Group 82
+    400290: Group 84
+    400292: Group 86
+    400294: Group 88
+    400296: Group 90
+    400298: Group 92
+    400300: Group 94
+    400302: Group 96
+    400304: Group 98
+    400306: HOTEL
+    400308: HOTEL 1
+    400310: Lamp01
+    400312: Lamp01 1
+    400314: LampBase
+    400316: LampBase 1
+    400318: LampBase 10
+    400320: LampBase 2
+    400322: LampBase 3
+    400324: LampBase 4
+    400326: LampBase 5
+    400328: LampBase 6
+    400330: LampBase 7
+    400332: LampBase 8
+    400334: LampBase 9
+    400336: LED caution beacons.
+    400338: LED caution beacons. 1
+    400340: LED light green
+    400342: LED light green 1
+    400344: LED light green 10
+    400346: LED light green 11
+    400348: LED light green 12
+    400350: LED light green 13
+    400352: LED light green 2
+    400354: LED light green 3
+    400356: LED light green 4
+    400358: LED light green 5
+    400360: LED light green 6
+    400362: LED light green 7
+    400364: LED light green 8
+    400366: LED light green 9
+    400368: LED light green#1
+    400370: LED light green#1 1
+    400372: LED light green#1 2
+    400374: LED light green#1 3
+    400376: LED light green#1 4
+    400378: LED light green#1 5
+    400380: LEd light red
+    400382: LEd light red 1
+    400384: LEd light red 10
+    400386: LEd light red 11
+    400388: LEd light red 12
+    400390: LEd light red 13
+    400392: LEd light red 14
+    400394: LEd light red 15
+    400396: LEd light red 16
+    400398: LEd light red 17
+    400400: LEd light red 18
+    400402: LEd light red 19
+    400404: LEd light red 2
+    400406: LEd light red 20
+    400408: LEd light red 21
+    400410: LEd light red 22
+    400412: LEd light red 23
+    400414: LEd light red 24
+    400416: LEd light red 25
+    400418: LEd light red 26
+    400420: LEd light red 27
+    400422: LEd light red 28
+    400424: LEd light red 29
+    400426: LEd light red 3
+    400428: LEd light red 30
+    400430: LEd light red 31
+    400432: LEd light red 32
+    400434: LEd light red 33
+    400436: LEd light red 34
+    400438: LEd light red 35
+    400440: LEd light red 36
+    400442: LEd light red 37
+    400444: LEd light red 38
+    400446: LEd light red 39
+    400448: LEd light red 4
+    400450: LEd light red 40
+    400452: LEd light red 41
+    400454: LEd light red 42
+    400456: LEd light red 43
+    400458: LEd light red 44
+    400460: LEd light red 45
+    400462: LEd light red 46
+    400464: LEd light red 47
+    400466: LEd light red 48
+    400468: LEd light red 49
+    400470: LEd light red 5
+    400472: LEd light red 50
+    400474: LEd light red 51
+    400476: LEd light red 52
+    400478: LEd light red 53
+    400480: LEd light red 54
+    400482: LEd light red 55
+    400484: LEd light red 56
+    400486: LEd light red 57
+    400488: LEd light red 58
+    400490: LEd light red 59
+    400492: LEd light red 6
+    400494: LEd light red 60
+    400496: LEd light red 61
+    400498: LEd light red 62
+    400500: LEd light red 63
+    400502: LEd light red 64
+    400504: LEd light red 65
+    400506: LEd light red 66
+    400508: LEd light red 67
+    400510: LEd light red 7
+    400512: LEd light red 8
+    400514: LEd light red 9
+    400516: LEd light red lit
+    400518: LEd light red lit 1
+    400520: LEd light red lit 10
+    400522: LEd light red lit 11
+    400524: LEd light red lit 12
+    400526: LEd light red lit 13
+    400528: LEd light red lit 14
+    400530: LEd light red lit 15
+    400532: LEd light red lit 16
+    400534: LEd light red lit 17
+    400536: LEd light red lit 18
+    400538: LEd light red lit 19
+    400540: LEd light red lit 2
+    400542: LEd light red lit 3
+    400544: LEd light red lit 4
+    400546: LEd light red lit 5
+    400548: LEd light red lit 6
+    400550: LEd light red lit 7
+    400552: LEd light red lit 8
+    400554: LEd light red lit 9
+    400556: LEd light red lit#1
+    400558: LEd light red#1
+    400560: LEd light red#1 1
+    400562: LEd light red#1 10
+    400564: LEd light red#1 11
+    400566: LEd light red#1 12
+    400568: LEd light red#1 13
+    400570: LEd light red#1 2
+    400572: LEd light red#1 3
+    400574: LEd light red#1 4
+    400576: LEd light red#1 5
+    400578: LEd light red#1 6
+    400580: LEd light red#1 7
+    400582: LEd light red#1 8
+    400584: LEd light red#1 9
+    400586: LED traffic signal green
+    400588: LED traffic signal green 1
+    400590: LED traffic signal green 2
+    400592: LED traffic signal green 3
+    400594: LED traffic signal green 4
+    400596: LED traffic signal green 5
+    400598: light#2
+    400600: light#2 1
+    400602: light#2 2
+    400604: light#2 3
+    400606: Light_Street_Decorative_18_#1
+    400608: light_street_decoritive
+    400610: Mccain PV thru signal green
+    400612: Mccain PV thru signal green 1
+    400614: Mccain PV traffic signal green
+    400616: Mccain PV traffic signal green 1
+    400618: Mccain PV traffic signal green 2
+    400620: Modern Skyscraper
+    400622: no outlet sign
+    400624: pv green 1
+    400626: pv green 1 1
+    400628: pv red 1
+    400630: pv red 1 1
+    400632: pv yelow 1
+    400634: pv yelow 1 1
+    400636: red d
+    400638: red d 1
+    400640: red d 2
+    400642: red LED signal
+    400644: Road Barricade
+    400646: Road Barricade w/ Road Closed sign
+    400648: ROAD CLOSED
+    400650: Road Closed Ahea
+    400652: Road Closed Ahead Sign
+    400654: Road closed sign
+    400656: Susan
+    400658: traffic signal slip fitter
+    400660: traffic signal slip fitter 1
+    400662: traffic signal slip fitter 10
+    400664: traffic signal slip fitter 11
+    400666: traffic signal slip fitter 12
+    400668: traffic signal slip fitter 13
+    400670: traffic signal slip fitter 14
+    400672: traffic signal slip fitter 15
+    400674: traffic signal slip fitter 16
+    400676: traffic signal slip fitter 17
+    400678: traffic signal slip fitter 18
+    400680: traffic signal slip fitter 19
+    400682: traffic signal slip fitter 2
+    400684: traffic signal slip fitter 20
+    400686: traffic signal slip fitter 21
+    400688: traffic signal slip fitter 3
+    400690: traffic signal slip fitter 4
+    400692: traffic signal slip fitter 5
+    400694: traffic signal slip fitter 6
+    400696: traffic signal slip fitter 7
+    400698: traffic signal slip fitter 8
+    400700: traffic signal slip fitter 9
+    400702: traffic signal slip fitter#1
+    400704: traffic signal slip fitter#1 1
+    400706: traffic signal slip fitter#1 2
+    400708: traffic signal slip fitter#1 3
+    400710: traffic_arm#1
+    400712: traffic_arm#1 1
+    400714: traffic_sunshield
+    400716: traffic_sunshield 1
+    400718: traffic_sunshield 10
+    400720: traffic_sunshield 11
+    400722: traffic_sunshield 12
+    400724: traffic_sunshield 13
+    400726: traffic_sunshield 14
+    400728: traffic_sunshield 15
+    400730: traffic_sunshield 16
+    400732: traffic_sunshield 17
+    400734: traffic_sunshield 18
+    400736: traffic_sunshield 19
+    400738: traffic_sunshield 2
+    400740: traffic_sunshield 20
+    400742: traffic_sunshield 21
+    400744: traffic_sunshield 22
+    400746: traffic_sunshield 23
+    400748: traffic_sunshield 24
+    400750: traffic_sunshield 25
+    400752: traffic_sunshield 26
+    400754: traffic_sunshield 27
+    400756: traffic_sunshield 28
+    400758: traffic_sunshield 29
+    400760: traffic_sunshield 3
+    400762: traffic_sunshield 30
+    400764: traffic_sunshield 31
+    400766: traffic_sunshield 32
+    400768: traffic_sunshield 33
+    400770: traffic_sunshield 34
+    400772: traffic_sunshield 35
+    400774: traffic_sunshield 36
+    400776: traffic_sunshield 37
+    400778: traffic_sunshield 38
+    400780: traffic_sunshield 39
+    400782: traffic_sunshield 4
+    400784: traffic_sunshield 40
+    400786: traffic_sunshield 5
+    400788: traffic_sunshield 6
+    400790: traffic_sunshield 7
+    400792: traffic_sunshield 8
+    400794: traffic_sunshield 9
+    400796: traffic_sunshield#1
+    400798: traffic_sunshield#1 1
+    400800: traffic_sunshield#2
+    400802: traffic_sunshield#2 1
+    400804: traffic_sunshield#2 2
+    400806: traffic_sunshield#2 3
+    400808: traffic_sunshield#3
+    400810: traffic_sunshield#3 1
+    400812: traffic_sunshield#3 2
+    400814: TrafficSignal_Pedestrian_Don_t Walk
+    400816: untextured back-east style traffic signal armpole
+    400818: untextured back-east style traffic signal armpole 1
+    400820: untextured back-east style traffic signal armpole 10
+    400822: untextured back-east style traffic signal armpole 2
+    400824: untextured back-east style traffic signal armpole 3
+    400826: untextured back-east style traffic signal armpole 4
+    400828: untextured back-east style traffic signal armpole 5
+    400830: untextured back-east style traffic signal armpole 6
+    400832: untextured back-east style traffic signal armpole 7
+    400834: untextured back-east style traffic signal armpole 8
+    400836: untextured back-east style traffic signal armpole 9
+    400838: //RootNode
+    400840: yellow d
+    400842: yellow d 1
+    400844: yellow d 2
+    400846: yellow l
+    400848: yellow l 1
+    400850: yellow led d
+    400852: yellow led d 1
+    2300000: 12" LED traffic signal green
+    2300002: 12" LED traffic signal green 1
+    2300004: 12" LED traffic signal green 10
+    2300006: 12" LED traffic signal green 11
+    2300008: 12" LED traffic signal green 12
+    2300010: 12" LED traffic signal green 13
+    2300012: 12" LED traffic signal green 2
+    2300014: 12" LED traffic signal green 3
+    2300016: 12" LED traffic signal green 4
+    2300018: 12" LED traffic signal green 5
+    2300020: 12" LED traffic signal green 6
+    2300022: 12" LED traffic signal green 7
+    2300024: 12" LED traffic signal green 8
+    2300026: 12" LED traffic signal green 9
+    2300028: 12" LED traffic signal red
+    2300030: 12" LED traffic signal red 1
+    2300032: 12" LED traffic signal red 10
+    2300034: 12" LED traffic signal red 11
+    2300036: 12" LED traffic signal red 12
+    2300038: 12" LED traffic signal red 13
+    2300040: 12" LED traffic signal red 14
+    2300042: 12" LED traffic signal red 15
+    2300044: 12" LED traffic signal red 16
+    2300046: 12" LED traffic signal red 17
+    2300048: 12" LED traffic signal red 18
+    2300050: 12" LED traffic signal red 19
+    2300052: 12" LED traffic signal red 2
+    2300054: 12" LED traffic signal red 3
+    2300056: 12" LED traffic signal red 4
+    2300058: 12" LED traffic signal red 5
+    2300060: 12" LED traffic signal red 6
+    2300062: 12" LED traffic signal red 7
+    2300064: 12" LED traffic signal red 8
+    2300066: 12" LED traffic signal red 9
+    2300068: Bryce
+    2300070: caution signal
+    2300072: caution signal 1
+    2300074: caution signal 2
+    2300076: caution signal 3
+    2300078: CRISISLER
+    2300080: CRISISLER 1
+    2300082: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+    2300084: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      1
+    2300086: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      2
+    2300088: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      3
+    2300090: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      4
+    2300092: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      5
+    2300094: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+    2300096: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      1
+    2300098: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      2
+    2300100: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      3
+    2300102: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      4
+    2300104: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      5
+    2300106: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      6
+    2300108: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      7
+    2300110: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      8
+    2300112: Flag
+    2300114: Flag 1
+    2300116: Flag 10
+    2300118: Flag 2
+    2300120: Flag 3
+    2300122: Flag 4
+    2300124: Flag 5
+    2300126: Flag 6
+    2300128: Flag 7
+    2300130: Flag 8
+    2300132: Flag 9
+    2300134: green l
+    2300136: green l 1
+    2300138: green l 2
+    2300140: Group 10
+    2300142: Group 100
+    2300144: Group 102
+    2300146: Group 104
+    2300148: Group 106
+    2300150: Group 108
+    2300152: Group 110
+    2300154: Group 112
+    2300156: Group 12
+    2300158: Group 14
+    2300160: Group 16
+    2300162: Group 18
+    2300164: Group 2
+    2300166: Group 20
+    2300168: Group 22
+    2300170: Group 24
+    2300172: Group 26
+    2300174: Group 28
+    2300176: Group 30
+    2300178: Group 32
+    2300180: Group 34
+    2300182: Group 36
+    2300184: Group 38
+    2300186: Group 4
+    2300188: Group 40
+    2300190: Group 42
+    2300192: Group 44
+    2300194: Group 46
+    2300196: Group 48
+    2300198: Group 50
+    2300200: Group 52
+    2300202: Group 54
+    2300204: Group 56
+    2300206: Group 58
+    2300208: Group 6
+    2300210: Group 60
+    2300212: Group 62
+    2300214: Group 64
+    2300216: Group 66
+    2300218: Group 68
+    2300220: Group 70
+    2300222: Group 72
+    2300224: Group 74
+    2300226: Group 76
+    2300228: Group 78
+    2300230: Group 8
+    2300232: Group 80
+    2300234: Group 82
+    2300236: Group 84
+    2300238: Group 86
+    2300240: Group 88
+    2300242: Group 90
+    2300244: Group 92
+    2300246: Group 94
+    2300248: Group 96
+    2300250: Group 98
+    2300252: HOTEL
+    2300254: HOTEL 1
+    2300256: Lamp01
+    2300258: Lamp01 1
+    2300260: LampBase
+    2300262: LampBase 1
+    2300264: LampBase 10
+    2300266: LampBase 2
+    2300268: LampBase 3
+    2300270: LampBase 4
+    2300272: LampBase 5
+    2300274: LampBase 6
+    2300276: LampBase 7
+    2300278: LampBase 8
+    2300280: LampBase 9
+    2300282: LED caution beacons.
+    2300284: LED caution beacons. 1
+    2300286: LED light green
+    2300288: LED light green 1
+    2300290: LED light green 10
+    2300292: LED light green 11
+    2300294: LED light green 12
+    2300296: LED light green 13
+    2300298: LED light green 2
+    2300300: LED light green 3
+    2300302: LED light green 4
+    2300304: LED light green 5
+    2300306: LED light green 6
+    2300308: LED light green 7
+    2300310: LED light green 8
+    2300312: LED light green 9
+    2300314: LED light green#1
+    2300316: LED light green#1 1
+    2300318: LED light green#1 2
+    2300320: LED light green#1 3
+    2300322: LED light green#1 4
+    2300324: LED light green#1 5
+    2300326: LEd light red
+    2300328: LEd light red 1
+    2300330: LEd light red 10
+    2300332: LEd light red 11
+    2300334: LEd light red 12
+    2300336: LEd light red 13
+    2300338: LEd light red 14
+    2300340: LEd light red 15
+    2300342: LEd light red 16
+    2300344: LEd light red 17
+    2300346: LEd light red 18
+    2300348: LEd light red 19
+    2300350: LEd light red 2
+    2300352: LEd light red 20
+    2300354: LEd light red 21
+    2300356: LEd light red 22
+    2300358: LEd light red 23
+    2300360: LEd light red 24
+    2300362: LEd light red 25
+    2300364: LEd light red 26
+    2300366: LEd light red 27
+    2300368: LEd light red 28
+    2300370: LEd light red 29
+    2300372: LEd light red 3
+    2300374: LEd light red 30
+    2300376: LEd light red 31
+    2300378: LEd light red 32
+    2300380: LEd light red 33
+    2300382: LEd light red 34
+    2300384: LEd light red 35
+    2300386: LEd light red 36
+    2300388: LEd light red 37
+    2300390: LEd light red 38
+    2300392: LEd light red 39
+    2300394: LEd light red 4
+    2300396: LEd light red 40
+    2300398: LEd light red 41
+    2300400: LEd light red 42
+    2300402: LEd light red 43
+    2300404: LEd light red 44
+    2300406: LEd light red 45
+    2300408: LEd light red 46
+    2300410: LEd light red 47
+    2300412: LEd light red 48
+    2300414: LEd light red 49
+    2300416: LEd light red 5
+    2300418: LEd light red 50
+    2300420: LEd light red 51
+    2300422: LEd light red 52
+    2300424: LEd light red 53
+    2300426: LEd light red 54
+    2300428: LEd light red 55
+    2300430: LEd light red 56
+    2300432: LEd light red 57
+    2300434: LEd light red 58
+    2300436: LEd light red 59
+    2300438: LEd light red 6
+    2300440: LEd light red 60
+    2300442: LEd light red 61
+    2300444: LEd light red 62
+    2300446: LEd light red 63
+    2300448: LEd light red 64
+    2300450: LEd light red 65
+    2300452: LEd light red 66
+    2300454: LEd light red 67
+    2300456: LEd light red 7
+    2300458: LEd light red 8
+    2300460: LEd light red 9
+    2300462: LEd light red lit
+    2300464: LEd light red lit 1
+    2300466: LEd light red lit 10
+    2300468: LEd light red lit 11
+    2300470: LEd light red lit 12
+    2300472: LEd light red lit 13
+    2300474: LEd light red lit 14
+    2300476: LEd light red lit 15
+    2300478: LEd light red lit 16
+    2300480: LEd light red lit 17
+    2300482: LEd light red lit 18
+    2300484: LEd light red lit 19
+    2300486: LEd light red lit 2
+    2300488: LEd light red lit 3
+    2300490: LEd light red lit 4
+    2300492: LEd light red lit 5
+    2300494: LEd light red lit 6
+    2300496: LEd light red lit 7
+    2300498: LEd light red lit 8
+    2300500: LEd light red lit 9
+    2300502: LEd light red lit#1
+    2300504: LEd light red#1
+    2300506: LEd light red#1 1
+    2300508: LEd light red#1 10
+    2300510: LEd light red#1 11
+    2300512: LEd light red#1 12
+    2300514: LEd light red#1 13
+    2300516: LEd light red#1 2
+    2300518: LEd light red#1 3
+    2300520: LEd light red#1 4
+    2300522: LEd light red#1 5
+    2300524: LEd light red#1 6
+    2300526: LEd light red#1 7
+    2300528: LEd light red#1 8
+    2300530: LEd light red#1 9
+    2300532: LED traffic signal green
+    2300534: LED traffic signal green 1
+    2300536: LED traffic signal green 2
+    2300538: LED traffic signal green 3
+    2300540: LED traffic signal green 4
+    2300542: LED traffic signal green 5
+    2300544: light#2
+    2300546: light#2 1
+    2300548: light#2 2
+    2300550: light#2 3
+    2300552: Light_Street_Decorative_18_#1
+    2300554: Modern Skyscraper
+    2300556: no outlet sign
+    2300558: pv green 1
+    2300560: pv green 1 1
+    2300562: pv red 1
+    2300564: pv red 1 1
+    2300566: pv yelow 1
+    2300568: pv yelow 1 1
+    2300570: red d
+    2300572: red d 1
+    2300574: red d 2
+    2300576: red LED signal
+    2300578: Road Barricade
+    2300580: ROAD CLOSED
+    2300582: Road Closed Ahea
+    2300584: Road Closed Ahead Sign
+    2300586: Road closed sign
+    2300588: Susan
+    2300590: traffic signal slip fitter
+    2300592: traffic signal slip fitter 1
+    2300594: traffic signal slip fitter 10
+    2300596: traffic signal slip fitter 11
+    2300598: traffic signal slip fitter 12
+    2300600: traffic signal slip fitter 13
+    2300602: traffic signal slip fitter 14
+    2300604: traffic signal slip fitter 15
+    2300606: traffic signal slip fitter 16
+    2300608: traffic signal slip fitter 17
+    2300610: traffic signal slip fitter 18
+    2300612: traffic signal slip fitter 19
+    2300614: traffic signal slip fitter 2
+    2300616: traffic signal slip fitter 20
+    2300618: traffic signal slip fitter 21
+    2300620: traffic signal slip fitter 3
+    2300622: traffic signal slip fitter 4
+    2300624: traffic signal slip fitter 5
+    2300626: traffic signal slip fitter 6
+    2300628: traffic signal slip fitter 7
+    2300630: traffic signal slip fitter 8
+    2300632: traffic signal slip fitter 9
+    2300634: traffic signal slip fitter#1
+    2300636: traffic signal slip fitter#1 1
+    2300638: traffic signal slip fitter#1 2
+    2300640: traffic signal slip fitter#1 3
+    2300642: traffic_arm#1
+    2300644: traffic_arm#1 1
+    2300646: traffic_sunshield
+    2300648: traffic_sunshield 1
+    2300650: traffic_sunshield 10
+    2300652: traffic_sunshield 11
+    2300654: traffic_sunshield 12
+    2300656: traffic_sunshield 13
+    2300658: traffic_sunshield 14
+    2300660: traffic_sunshield 15
+    2300662: traffic_sunshield 16
+    2300664: traffic_sunshield 17
+    2300666: traffic_sunshield 18
+    2300668: traffic_sunshield 19
+    2300670: traffic_sunshield 2
+    2300672: traffic_sunshield 20
+    2300674: traffic_sunshield 21
+    2300676: traffic_sunshield 22
+    2300678: traffic_sunshield 23
+    2300680: traffic_sunshield 24
+    2300682: traffic_sunshield 25
+    2300684: traffic_sunshield 26
+    2300686: traffic_sunshield 27
+    2300688: traffic_sunshield 28
+    2300690: traffic_sunshield 29
+    2300692: traffic_sunshield 3
+    2300694: traffic_sunshield 30
+    2300696: traffic_sunshield 31
+    2300698: traffic_sunshield 32
+    2300700: traffic_sunshield 33
+    2300702: traffic_sunshield 34
+    2300704: traffic_sunshield 35
+    2300706: traffic_sunshield 36
+    2300708: traffic_sunshield 37
+    2300710: traffic_sunshield 38
+    2300712: traffic_sunshield 39
+    2300714: traffic_sunshield 4
+    2300716: traffic_sunshield 40
+    2300718: traffic_sunshield 5
+    2300720: traffic_sunshield 6
+    2300722: traffic_sunshield 7
+    2300724: traffic_sunshield 8
+    2300726: traffic_sunshield 9
+    2300728: traffic_sunshield#1
+    2300730: traffic_sunshield#1 1
+    2300732: traffic_sunshield#2
+    2300734: traffic_sunshield#2 1
+    2300736: traffic_sunshield#2 2
+    2300738: traffic_sunshield#2 3
+    2300740: traffic_sunshield#3
+    2300742: traffic_sunshield#3 1
+    2300744: traffic_sunshield#3 2
+    2300746: TrafficSignal_Pedestrian_Don_t Walk
+    2300748: untextured back-east style traffic signal armpole
+    2300750: untextured back-east style traffic signal armpole 1
+    2300752: untextured back-east style traffic signal armpole 10
+    2300754: untextured back-east style traffic signal armpole 2
+    2300756: untextured back-east style traffic signal armpole 3
+    2300758: untextured back-east style traffic signal armpole 4
+    2300760: untextured back-east style traffic signal armpole 5
+    2300762: untextured back-east style traffic signal armpole 6
+    2300764: untextured back-east style traffic signal armpole 7
+    2300766: untextured back-east style traffic signal armpole 8
+    2300768: untextured back-east style traffic signal armpole 9
+    2300770: //RootNode
+    2300772: yellow d
+    2300774: yellow d 1
+    2300776: yellow d 2
+    2300778: yellow l
+    2300780: yellow l 1
+    2300782: yellow led d
+    2300784: yellow led d 1
+    3300000: 12" LED traffic signal green
+    3300002: 12" LED traffic signal green 1
+    3300004: 12" LED traffic signal green 10
+    3300006: 12" LED traffic signal green 11
+    3300008: 12" LED traffic signal green 12
+    3300010: 12" LED traffic signal green 13
+    3300012: 12" LED traffic signal green 2
+    3300014: 12" LED traffic signal green 3
+    3300016: 12" LED traffic signal green 4
+    3300018: 12" LED traffic signal green 5
+    3300020: 12" LED traffic signal green 6
+    3300022: 12" LED traffic signal green 7
+    3300024: 12" LED traffic signal green 8
+    3300026: 12" LED traffic signal green 9
+    3300028: 12" LED traffic signal red
+    3300030: 12" LED traffic signal red 1
+    3300032: 12" LED traffic signal red 10
+    3300034: 12" LED traffic signal red 11
+    3300036: 12" LED traffic signal red 12
+    3300038: 12" LED traffic signal red 13
+    3300040: 12" LED traffic signal red 14
+    3300042: 12" LED traffic signal red 15
+    3300044: 12" LED traffic signal red 16
+    3300046: 12" LED traffic signal red 17
+    3300048: 12" LED traffic signal red 18
+    3300050: 12" LED traffic signal red 19
+    3300052: 12" LED traffic signal red 2
+    3300054: 12" LED traffic signal red 3
+    3300056: 12" LED traffic signal red 4
+    3300058: 12" LED traffic signal red 5
+    3300060: 12" LED traffic signal red 6
+    3300062: 12" LED traffic signal red 7
+    3300064: 12" LED traffic signal red 8
+    3300066: 12" LED traffic signal red 9
+    3300068: Bryce
+    3300070: caution signal
+    3300072: caution signal 1
+    3300074: caution signal 2
+    3300076: caution signal 3
+    3300078: CRISISLER
+    3300080: CRISISLER 1
+    3300082: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+    3300084: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      1
+    3300086: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      2
+    3300088: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      3
+    3300090: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      4
+    3300092: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS
+      5
+    3300094: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+    3300096: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      1
+    3300098: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      2
+    3300100: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      3
+    3300102: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      4
+    3300104: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      5
+    3300106: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      6
+    3300108: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      7
+    3300110: EDIT ME!! [ solid coloring tranculents only for default lens only ] MTS#1
+      8
+    3300112: Flag
+    3300114: Flag 1
+    3300116: Flag 10
+    3300118: Flag 2
+    3300120: Flag 3
+    3300122: Flag 4
+    3300124: Flag 5
+    3300126: Flag 6
+    3300128: Flag 7
+    3300130: Flag 8
+    3300132: Flag 9
+    3300134: green l
+    3300136: green l 1
+    3300138: green l 2
+    3300140: Group 10
+    3300142: Group 100
+    3300144: Group 102
+    3300146: Group 104
+    3300148: Group 106
+    3300150: Group 108
+    3300152: Group 110
+    3300154: Group 112
+    3300156: Group 12
+    3300158: Group 14
+    3300160: Group 16
+    3300162: Group 18
+    3300164: Group 2
+    3300166: Group 20
+    3300168: Group 22
+    3300170: Group 24
+    3300172: Group 26
+    3300174: Group 28
+    3300176: Group 30
+    3300178: Group 32
+    3300180: Group 34
+    3300182: Group 36
+    3300184: Group 38
+    3300186: Group 4
+    3300188: Group 40
+    3300190: Group 42
+    3300192: Group 44
+    3300194: Group 46
+    3300196: Group 48
+    3300198: Group 50
+    3300200: Group 52
+    3300202: Group 54
+    3300204: Group 56
+    3300206: Group 58
+    3300208: Group 6
+    3300210: Group 60
+    3300212: Group 62
+    3300214: Group 64
+    3300216: Group 66
+    3300218: Group 68
+    3300220: Group 70
+    3300222: Group 72
+    3300224: Group 74
+    3300226: Group 76
+    3300228: Group 78
+    3300230: Group 8
+    3300232: Group 80
+    3300234: Group 82
+    3300236: Group 84
+    3300238: Group 86
+    3300240: Group 88
+    3300242: Group 90
+    3300244: Group 92
+    3300246: Group 94
+    3300248: Group 96
+    3300250: Group 98
+    3300252: HOTEL
+    3300254: HOTEL 1
+    3300256: Lamp01
+    3300258: Lamp01 1
+    3300260: LampBase
+    3300262: LampBase 1
+    3300264: LampBase 10
+    3300266: LampBase 2
+    3300268: LampBase 3
+    3300270: LampBase 4
+    3300272: LampBase 5
+    3300274: LampBase 6
+    3300276: LampBase 7
+    3300278: LampBase 8
+    3300280: LampBase 9
+    3300282: LED caution beacons.
+    3300284: LED caution beacons. 1
+    3300286: LED light green
+    3300288: LED light green 1
+    3300290: LED light green 10
+    3300292: LED light green 11
+    3300294: LED light green 12
+    3300296: LED light green 13
+    3300298: LED light green 2
+    3300300: LED light green 3
+    3300302: LED light green 4
+    3300304: LED light green 5
+    3300306: LED light green 6
+    3300308: LED light green 7
+    3300310: LED light green 8
+    3300312: LED light green 9
+    3300314: LED light green#1
+    3300316: LED light green#1 1
+    3300318: LED light green#1 2
+    3300320: LED light green#1 3
+    3300322: LED light green#1 4
+    3300324: LED light green#1 5
+    3300326: LEd light red
+    3300328: LEd light red 1
+    3300330: LEd light red 10
+    3300332: LEd light red 11
+    3300334: LEd light red 12
+    3300336: LEd light red 13
+    3300338: LEd light red 14
+    3300340: LEd light red 15
+    3300342: LEd light red 16
+    3300344: LEd light red 17
+    3300346: LEd light red 18
+    3300348: LEd light red 19
+    3300350: LEd light red 2
+    3300352: LEd light red 20
+    3300354: LEd light red 21
+    3300356: LEd light red 22
+    3300358: LEd light red 23
+    3300360: LEd light red 24
+    3300362: LEd light red 25
+    3300364: LEd light red 26
+    3300366: LEd light red 27
+    3300368: LEd light red 28
+    3300370: LEd light red 29
+    3300372: LEd light red 3
+    3300374: LEd light red 30
+    3300376: LEd light red 31
+    3300378: LEd light red 32
+    3300380: LEd light red 33
+    3300382: LEd light red 34
+    3300384: LEd light red 35
+    3300386: LEd light red 36
+    3300388: LEd light red 37
+    3300390: LEd light red 38
+    3300392: LEd light red 39
+    3300394: LEd light red 4
+    3300396: LEd light red 40
+    3300398: LEd light red 41
+    3300400: LEd light red 42
+    3300402: LEd light red 43
+    3300404: LEd light red 44
+    3300406: LEd light red 45
+    3300408: LEd light red 46
+    3300410: LEd light red 47
+    3300412: LEd light red 48
+    3300414: LEd light red 49
+    3300416: LEd light red 5
+    3300418: LEd light red 50
+    3300420: LEd light red 51
+    3300422: LEd light red 52
+    3300424: LEd light red 53
+    3300426: LEd light red 54
+    3300428: LEd light red 55
+    3300430: LEd light red 56
+    3300432: LEd light red 57
+    3300434: LEd light red 58
+    3300436: LEd light red 59
+    3300438: LEd light red 6
+    3300440: LEd light red 60
+    3300442: LEd light red 61
+    3300444: LEd light red 62
+    3300446: LEd light red 63
+    3300448: LEd light red 64
+    3300450: LEd light red 65
+    3300452: LEd light red 66
+    3300454: LEd light red 67
+    3300456: LEd light red 7
+    3300458: LEd light red 8
+    3300460: LEd light red 9
+    3300462: LEd light red lit
+    3300464: LEd light red lit 1
+    3300466: LEd light red lit 10
+    3300468: LEd light red lit 11
+    3300470: LEd light red lit 12
+    3300472: LEd light red lit 13
+    3300474: LEd light red lit 14
+    3300476: LEd light red lit 15
+    3300478: LEd light red lit 16
+    3300480: LEd light red lit 17
+    3300482: LEd light red lit 18
+    3300484: LEd light red lit 19
+    3300486: LEd light red lit 2
+    3300488: LEd light red lit 3
+    3300490: LEd light red lit 4
+    3300492: LEd light red lit 5
+    3300494: LEd light red lit 6
+    3300496: LEd light red lit 7
+    3300498: LEd light red lit 8
+    3300500: LEd light red lit 9
+    3300502: LEd light red lit#1
+    3300504: LEd light red#1
+    3300506: LEd light red#1 1
+    3300508: LEd light red#1 10
+    3300510: LEd light red#1 11
+    3300512: LEd light red#1 12
+    3300514: LEd light red#1 13
+    3300516: LEd light red#1 2
+    3300518: LEd light red#1 3
+    3300520: LEd light red#1 4
+    3300522: LEd light red#1 5
+    3300524: LEd light red#1 6
+    3300526: LEd light red#1 7
+    3300528: LEd light red#1 8
+    3300530: LEd light red#1 9
+    3300532: LED traffic signal green
+    3300534: LED traffic signal green 1
+    3300536: LED traffic signal green 2
+    3300538: LED traffic signal green 3
+    3300540: LED traffic signal green 4
+    3300542: LED traffic signal green 5
+    3300544: light#2
+    3300546: light#2 1
+    3300548: light#2 2
+    3300550: light#2 3
+    3300552: Light_Street_Decorative_18_#1
+    3300554: Modern Skyscraper
+    3300556: no outlet sign
+    3300558: pv green 1
+    3300560: pv green 1 1
+    3300562: pv red 1
+    3300564: pv red 1 1
+    3300566: pv yelow 1
+    3300568: pv yelow 1 1
+    3300570: red d
+    3300572: red d 1
+    3300574: red d 2
+    3300576: red LED signal
+    3300578: Road Barricade
+    3300580: ROAD CLOSED
+    3300582: Road Closed Ahea
+    3300584: Road Closed Ahead Sign
+    3300586: Road closed sign
+    3300588: Susan
+    3300590: traffic signal slip fitter
+    3300592: traffic signal slip fitter 1
+    3300594: traffic signal slip fitter 10
+    3300596: traffic signal slip fitter 11
+    3300598: traffic signal slip fitter 12
+    3300600: traffic signal slip fitter 13
+    3300602: traffic signal slip fitter 14
+    3300604: traffic signal slip fitter 15
+    3300606: traffic signal slip fitter 16
+    3300608: traffic signal slip fitter 17
+    3300610: traffic signal slip fitter 18
+    3300612: traffic signal slip fitter 19
+    3300614: traffic signal slip fitter 2
+    3300616: traffic signal slip fitter 20
+    3300618: traffic signal slip fitter 21
+    3300620: traffic signal slip fitter 3
+    3300622: traffic signal slip fitter 4
+    3300624: traffic signal slip fitter 5
+    3300626: traffic signal slip fitter 6
+    3300628: traffic signal slip fitter 7
+    3300630: traffic signal slip fitter 8
+    3300632: traffic signal slip fitter 9
+    3300634: traffic signal slip fitter#1
+    3300636: traffic signal slip fitter#1 1
+    3300638: traffic signal slip fitter#1 2
+    3300640: traffic signal slip fitter#1 3
+    3300642: traffic_arm#1
+    3300644: traffic_arm#1 1
+    3300646: traffic_sunshield
+    3300648: traffic_sunshield 1
+    3300650: traffic_sunshield 10
+    3300652: traffic_sunshield 11
+    3300654: traffic_sunshield 12
+    3300656: traffic_sunshield 13
+    3300658: traffic_sunshield 14
+    3300660: traffic_sunshield 15
+    3300662: traffic_sunshield 16
+    3300664: traffic_sunshield 17
+    3300666: traffic_sunshield 18
+    3300668: traffic_sunshield 19
+    3300670: traffic_sunshield 2
+    3300672: traffic_sunshield 20
+    3300674: traffic_sunshield 21
+    3300676: traffic_sunshield 22
+    3300678: traffic_sunshield 23
+    3300680: traffic_sunshield 24
+    3300682: traffic_sunshield 25
+    3300684: traffic_sunshield 26
+    3300686: traffic_sunshield 27
+    3300688: traffic_sunshield 28
+    3300690: traffic_sunshield 29
+    3300692: traffic_sunshield 3
+    3300694: traffic_sunshield 30
+    3300696: traffic_sunshield 31
+    3300698: traffic_sunshield 32
+    3300700: traffic_sunshield 33
+    3300702: traffic_sunshield 34
+    3300704: traffic_sunshield 35
+    3300706: traffic_sunshield 36
+    3300708: traffic_sunshield 37
+    3300710: traffic_sunshield 38
+    3300712: traffic_sunshield 39
+    3300714: traffic_sunshield 4
+    3300716: traffic_sunshield 40
+    3300718: traffic_sunshield 5
+    3300720: traffic_sunshield 6
+    3300722: traffic_sunshield 7
+    3300724: traffic_sunshield 8
+    3300726: traffic_sunshield 9
+    3300728: traffic_sunshield#1
+    3300730: traffic_sunshield#1 1
+    3300732: traffic_sunshield#2
+    3300734: traffic_sunshield#2 1
+    3300736: traffic_sunshield#2 2
+    3300738: traffic_sunshield#2 3
+    3300740: traffic_sunshield#3
+    3300742: traffic_sunshield#3 1
+    3300744: traffic_sunshield#3 2
+    3300746: TrafficSignal_Pedestrian_Don_t Walk
+    3300748: untextured back-east style traffic signal armpole
+    3300750: untextured back-east style traffic signal armpole 1
+    3300752: untextured back-east style traffic signal armpole 10
+    3300754: untextured back-east style traffic signal armpole 2
+    3300756: untextured back-east style traffic signal armpole 3
+    3300758: untextured back-east style traffic signal armpole 4
+    3300760: untextured back-east style traffic signal armpole 5
+    3300762: untextured back-east style traffic signal armpole 6
+    3300764: untextured back-east style traffic signal armpole 7
+    3300766: untextured back-east style traffic signal armpole 8
+    3300768: untextured back-east style traffic signal armpole 9
+    3300770: //RootNode
+    3300772: yellow d
+    3300774: yellow d 1
+    3300776: yellow d 2
+    3300778: yellow l
+    3300780: yellow l 1
+    3300782: yellow led d
+    3300784: yellow led d 1
+    4300000: Mesh Untitled (8)
+    4300002: Mesh Group 2
+    4300004: Mesh Group 18
+    4300006: Mesh Group 20
+    4300008: Mesh Group 28
+    4300010: Mesh Group 40
+    4300012: Mesh Group 88
+    4300014: Mesh Group 90
+    4300016: Mesh Group 98
+    4300018: Mesh Group 104
+    4300020: Mesh Group 110
+    4300022: Mesh Group 112
+    4300024: Mesh Susan
+    4300026: Mesh CRISISLER
+    4300028: Mesh Bryce
+    4300030: Mesh HOTEL
+    4300032: Mesh Modern Skyscraper
+    4300034: Mesh Light_Street_Decorative_18_#1
+    4300036: Mesh Lamp01
+    4300038: Mesh TrafficSignal_Pedestrian_Don_t Walk
+    4300040: Mesh traffic_arm#1
+    4300042: Mesh untextured back-east style traffic signal armpole
+    4300044: Mesh Flag
+    4300046: Mesh LampBase
+    4300048: Mesh traffic signal slip fitter
+    4300050: Mesh untextured back-east style traffic signal armpole
+    4300052: Mesh Flag
+    4300054: Mesh LampBase
+    4300056: Mesh traffic signal slip fitter
+    4300058: Mesh Road Barricade
+    4300060: Mesh Road closed sign
+    4300062: Mesh ROAD CLOSED
+    4300064: Mesh Road Closed Ahead Sign
+    4300066: Mesh Road Closed Ahea
+    4300068: Mesh 12" LED traffic signal red
+    4300070: Mesh LEd light red
+    4300072: Mesh LEd light red lit
+    4300074: Mesh traffic_sunshield
+    4300076: Mesh LED traffic signal green
+    4300078: Mesh LED light green#1
+    4300080: Mesh LEd light red#1
+    4300082: Mesh EDIT ME!! [ solid coloring tranculents only for default lens only
+      ] MTS
+    4300084: Mesh pv yelow 1
+    4300086: Mesh pv green 1
+    4300088: Mesh pv red 1
+    4300090: Mesh traffic_sunshield#1
+    4300092: Mesh 12" LED traffic signal green
+    4300094: Mesh LED light green
+    4300096: Mesh LED caution beacons.
+    4300098: Mesh yellow led d
+    4300100: Mesh caution signal
+    4300102: Mesh light#2
+    4300104: Mesh traffic_sunshield#2
+    4300106: Mesh caution signal
+    4300108: Mesh light#2
+    4300110: Mesh traffic_sunshield#2
+    4300112: Mesh traffic signal slip fitter#1
+    4300114: Mesh yellow l
+    4300116: Mesh no outlet sign
+    4300118: Mesh red LED signal
+    4300120: Mesh LEd light red lit#1
+    4300122: Mesh EDIT ME!! [ solid coloring tranculents only for default lens only
+      ] MTS#1
+    4300124: Mesh EDIT ME!! [ solid coloring tranculents only for default lens only
+      ] MTS#1
+    4300126: Mesh EDIT ME!! [ solid coloring tranculents only for default lens only
+      ] MTS#1
+    4300128: Mesh red d
+    4300130: Mesh yellow d
+    4300132: Mesh green l
+    4300134: Mesh traffic_sunshield#3
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

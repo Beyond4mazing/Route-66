@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: e17abad8e8986c24f8b974a500f62cd1
+timeCreated: 1461405711
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f01000060010000610100006201000063010000
+  assetHash:
+    serializedVersion: 2
+    Hash: e284e1b75e0cf358edb34eddbb3242a1
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -42.054234, y: 44.321445, z: -114.28952}
+      lookAt: {x: 8.099943, y: -1.0314735, z: 15.67083}
+      up: {x: 0.11145993, y: 0.9508741, z: 0.28881684}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Drive Axle
+    100002: Drive Axle 1
+    100004: Drive Axle 10
+    100006: Drive Axle 11
+    100008: Drive Axle 12
+    100010: Drive Axle 13
+    100012: Drive Axle 14
+    100014: Drive Axle 15
+    100016: Drive Axle 16
+    100018: Drive Axle 17
+    100020: Drive Axle 18
+    100022: Drive Axle 19
+    100024: Drive Axle 2
+    100026: Drive Axle 20
+    100028: Drive Axle 21
+    100030: Drive Axle 22
+    100032: Drive Axle 23
+    100034: Drive Axle 3
+    100036: Drive Axle 4
+    100038: Drive Axle 5
+    100040: Drive Axle 6
+    100042: Drive Axle 7
+    100044: Drive Axle 8
+    100046: Drive Axle 9
+    100048: Drive Wheel
+    100050: Drive Wheel 1
+    100052: Drive Wheel 10
+    100054: Drive Wheel 11
+    100056: Drive Wheel 12
+    100058: Drive Wheel 13
+    100060: Drive Wheel 14
+    100062: Drive Wheel 15
+    100064: Drive Wheel 16
+    100066: Drive Wheel 17
+    100068: Drive Wheel 18
+    100070: Drive Wheel 19
+    100072: Drive Wheel 2
+    100074: Drive Wheel 20
+    100076: Drive Wheel 21
+    100078: Drive Wheel 22
+    100080: Drive Wheel 23
+    100082: Drive Wheel 3
+    100084: Drive Wheel 4
+    100086: Drive Wheel 5
+    100088: Drive Wheel 6
+    100090: Drive Wheel 7
+    100092: Drive Wheel 8
+    100094: Drive Wheel 9
+    100096: Gear 3
+    100098: Gear 3 1
+    100100: Gear 3 10
+    100102: Gear 3 11
+    100104: Gear 3 12
+    100106: Gear 3 13
+    100108: Gear 3 14
+    100110: Gear 3 15
+    100112: Gear 3 16
+    100114: Gear 3 17
+    100116: Gear 3 18
+    100118: Gear 3 19
+    100120: Gear 3 2
+    100122: Gear 3 20
+    100124: Gear 3 21
+    100126: Gear 3 22
+    100128: Gear 3 23
+    100130: Gear 3 3
+    100132: Gear 3 4
+    100134: Gear 3 5
+    100136: Gear 3 6
+    100138: Gear 3 7
+    100140: Gear 3 8
+    100142: Gear 3 9
+    100144: Group 10
+    100146: Group 12
+    100148: Group 14
+    100150: Group 16
+    100152: Group 18
+    100154: Group 2
+    100156: Group 20
+    100158: Group 22
+    100160: Group 4
+    100162: Group 6
+    100164: Group 8
+    100166: Main Axle
+    100168: Main Axle 1
+    100170: Main Axle 10
+    100172: Main Axle 11
+    100174: Main Axle 12
+    100176: Main Axle 13
+    100178: Main Axle 14
+    100180: Main Axle 15
+    100182: Main Axle 16
+    100184: Main Axle 17
+    100186: Main Axle 18
+    100188: Main Axle 19
+    100190: Main Axle 2
+    100192: Main Axle 20
+    100194: Main Axle 21
+    100196: Main Axle 3
+    100198: Main Axle 4
+    100200: Main Axle 5
+    100202: Main Axle 6
+    100204: Main Axle 7
+    100206: Main Axle 8
+    100208: Main Axle 9
+    100210: Presure Wheel
+    100212: Presure Wheel 1
+    100214: Presure Wheel 10
+    100216: Presure Wheel 11
+    100218: Presure Wheel 12
+    100220: Presure Wheel 13
+    100222: Presure Wheel 14
+    100224: Presure Wheel 15
+    100226: Presure Wheel 16
+    100228: Presure Wheel 17
+    100230: Presure Wheel 18
+    100232: Presure Wheel 19
+    100234: Presure Wheel 2
+    100236: Presure Wheel 20
+    100238: Presure Wheel 21
+    100240: Presure Wheel 22
+    100242: Presure Wheel 23
+    100244: Presure Wheel 24
+    100246: Presure Wheel 25
+    100248: Presure Wheel 26
+    100250: Presure Wheel 27
+    100252: Presure Wheel 28
+    100254: Presure Wheel 29
+    100256: Presure Wheel 3
+    100258: Presure Wheel 30
+    100260: Presure Wheel 31
+    100262: Presure Wheel 32
+    100264: Presure Wheel 33
+    100266: Presure Wheel 34
+    100268: Presure Wheel 35
+    100270: Presure Wheel 36
+    100272: Presure Wheel 37
+    100274: Presure Wheel 38
+    100276: Presure Wheel 39
+    100278: Presure Wheel 4
+    100280: Presure Wheel 40
+    100282: Presure Wheel 41
+    100284: Presure Wheel 42
+    100286: Presure Wheel 43
+    100288: Presure Wheel 44
+    100290: Presure Wheel 45
+    100292: Presure Wheel 46
+    100294: Presure Wheel 47
+    100296: Presure Wheel 5
+    100298: Presure Wheel 6
+    100300: Presure Wheel 7
+    100302: Presure Wheel 8
+    100304: Presure Wheel 9
+    100306: //RootNode
+    100308: Wheel Clamp
+    100310: Wheel Clamp 1
+    100312: Wheel Clamp 10
+    100314: Wheel Clamp 11
+    100316: Wheel Clamp 12
+    100318: Wheel Clamp 13
+    100320: Wheel Clamp 14
+    100322: Wheel Clamp 15
+    100324: Wheel Clamp 16
+    100326: Wheel Clamp 17
+    100328: Wheel Clamp 18
+    100330: Wheel Clamp 19
+    100332: Wheel Clamp 2
+    100334: Wheel Clamp 20
+    100336: Wheel Clamp 21
+    100338: Wheel Clamp 22
+    100340: Wheel Clamp 23
+    100342: Wheel Clamp 3
+    100344: Wheel Clamp 4
+    100346: Wheel Clamp 5
+    100348: Wheel Clamp 6
+    100350: Wheel Clamp 7
+    100352: Wheel Clamp 8
+    100354: Wheel Clamp 9
+    400000: Drive Axle
+    400002: Drive Axle 1
+    400004: Drive Axle 10
+    400006: Drive Axle 11
+    400008: Drive Axle 12
+    400010: Drive Axle 13
+    400012: Drive Axle 14
+    400014: Drive Axle 15
+    400016: Drive Axle 16
+    400018: Drive Axle 17
+    400020: Drive Axle 18
+    400022: Drive Axle 19
+    400024: Drive Axle 2
+    400026: Drive Axle 20
+    400028: Drive Axle 21
+    400030: Drive Axle 22
+    400032: Drive Axle 23
+    400034: Drive Axle 3
+    400036: Drive Axle 4
+    400038: Drive Axle 5
+    400040: Drive Axle 6
+    400042: Drive Axle 7
+    400044: Drive Axle 8
+    400046: Drive Axle 9
+    400048: Drive Wheel
+    400050: Drive Wheel 1
+    400052: Drive Wheel 10
+    400054: Drive Wheel 11
+    400056: Drive Wheel 12
+    400058: Drive Wheel 13
+    400060: Drive Wheel 14
+    400062: Drive Wheel 15
+    400064: Drive Wheel 16
+    400066: Drive Wheel 17
+    400068: Drive Wheel 18
+    400070: Drive Wheel 19
+    400072: Drive Wheel 2
+    400074: Drive Wheel 20
+    400076: Drive Wheel 21
+    400078: Drive Wheel 22
+    400080: Drive Wheel 23
+    400082: Drive Wheel 3
+    400084: Drive Wheel 4
+    400086: Drive Wheel 5
+    400088: Drive Wheel 6
+    400090: Drive Wheel 7
+    400092: Drive Wheel 8
+    400094: Drive Wheel 9
+    400096: Gear 3
+    400098: Gear 3 1
+    400100: Gear 3 10
+    400102: Gear 3 11
+    400104: Gear 3 12
+    400106: Gear 3 13
+    400108: Gear 3 14
+    400110: Gear 3 15
+    400112: Gear 3 16
+    400114: Gear 3 17
+    400116: Gear 3 18
+    400118: Gear 3 19
+    400120: Gear 3 2
+    400122: Gear 3 20
+    400124: Gear 3 21
+    400126: Gear 3 22
+    400128: Gear 3 23
+    400130: Gear 3 3
+    400132: Gear 3 4
+    400134: Gear 3 5
+    400136: Gear 3 6
+    400138: Gear 3 7
+    400140: Gear 3 8
+    400142: Gear 3 9
+    400144: Group 10
+    400146: Group 12
+    400148: Group 14
+    400150: Group 16
+    400152: Group 18
+    400154: Group 2
+    400156: Group 20
+    400158: Group 22
+    400160: Group 4
+    400162: Group 6
+    400164: Group 8
+    400166: Main Axle
+    400168: Main Axle 1
+    400170: Main Axle 10
+    400172: Main Axle 11
+    400174: Main Axle 12
+    400176: Main Axle 13
+    400178: Main Axle 14
+    400180: Main Axle 15
+    400182: Main Axle 16
+    400184: Main Axle 17
+    400186: Main Axle 18
+    400188: Main Axle 19
+    400190: Main Axle 2
+    400192: Main Axle 20
+    400194: Main Axle 21
+    400196: Main Axle 3
+    400198: Main Axle 4
+    400200: Main Axle 5
+    400202: Main Axle 6
+    400204: Main Axle 7
+    400206: Main Axle 8
+    400208: Main Axle 9
+    400210: Presure Wheel
+    400212: Presure Wheel 1
+    400214: Presure Wheel 10
+    400216: Presure Wheel 11
+    400218: Presure Wheel 12
+    400220: Presure Wheel 13
+    400222: Presure Wheel 14
+    400224: Presure Wheel 15
+    400226: Presure Wheel 16
+    400228: Presure Wheel 17
+    400230: Presure Wheel 18
+    400232: Presure Wheel 19
+    400234: Presure Wheel 2
+    400236: Presure Wheel 20
+    400238: Presure Wheel 21
+    400240: Presure Wheel 22
+    400242: Presure Wheel 23
+    400244: Presure Wheel 24
+    400246: Presure Wheel 25
+    400248: Presure Wheel 26
+    400250: Presure Wheel 27
+    400252: Presure Wheel 28
+    400254: Presure Wheel 29
+    400256: Presure Wheel 3
+    400258: Presure Wheel 30
+    400260: Presure Wheel 31
+    400262: Presure Wheel 32
+    400264: Presure Wheel 33
+    400266: Presure Wheel 34
+    400268: Presure Wheel 35
+    400270: Presure Wheel 36
+    400272: Presure Wheel 37
+    400274: Presure Wheel 38
+    400276: Presure Wheel 39
+    400278: Presure Wheel 4
+    400280: Presure Wheel 40
+    400282: Presure Wheel 41
+    400284: Presure Wheel 42
+    400286: Presure Wheel 43
+    400288: Presure Wheel 44
+    400290: Presure Wheel 45
+    400292: Presure Wheel 46
+    400294: Presure Wheel 47
+    400296: Presure Wheel 5
+    400298: Presure Wheel 6
+    400300: Presure Wheel 7
+    400302: Presure Wheel 8
+    400304: Presure Wheel 9
+    400306: //RootNode
+    400308: Wheel Clamp
+    400310: Wheel Clamp 1
+    400312: Wheel Clamp 10
+    400314: Wheel Clamp 11
+    400316: Wheel Clamp 12
+    400318: Wheel Clamp 13
+    400320: Wheel Clamp 14
+    400322: Wheel Clamp 15
+    400324: Wheel Clamp 16
+    400326: Wheel Clamp 17
+    400328: Wheel Clamp 18
+    400330: Wheel Clamp 19
+    400332: Wheel Clamp 2
+    400334: Wheel Clamp 20
+    400336: Wheel Clamp 21
+    400338: Wheel Clamp 22
+    400340: Wheel Clamp 23
+    400342: Wheel Clamp 3
+    400344: Wheel Clamp 4
+    400346: Wheel Clamp 5
+    400348: Wheel Clamp 6
+    400350: Wheel Clamp 7
+    400352: Wheel Clamp 8
+    400354: Wheel Clamp 9
+    2300000: Drive Axle
+    2300002: Drive Axle 1
+    2300004: Drive Axle 10
+    2300006: Drive Axle 11
+    2300008: Drive Axle 12
+    2300010: Drive Axle 13
+    2300012: Drive Axle 14
+    2300014: Drive Axle 15
+    2300016: Drive Axle 16
+    2300018: Drive Axle 17
+    2300020: Drive Axle 18
+    2300022: Drive Axle 19
+    2300024: Drive Axle 2
+    2300026: Drive Axle 20
+    2300028: Drive Axle 21
+    2300030: Drive Axle 22
+    2300032: Drive Axle 23
+    2300034: Drive Axle 3
+    2300036: Drive Axle 4
+    2300038: Drive Axle 5
+    2300040: Drive Axle 6
+    2300042: Drive Axle 7
+    2300044: Drive Axle 8
+    2300046: Drive Axle 9
+    2300048: Drive Wheel
+    2300050: Drive Wheel 1
+    2300052: Drive Wheel 10
+    2300054: Drive Wheel 11
+    2300056: Drive Wheel 12
+    2300058: Drive Wheel 13
+    2300060: Drive Wheel 14
+    2300062: Drive Wheel 15
+    2300064: Drive Wheel 16
+    2300066: Drive Wheel 17
+    2300068: Drive Wheel 18
+    2300070: Drive Wheel 19
+    2300072: Drive Wheel 2
+    2300074: Drive Wheel 20
+    2300076: Drive Wheel 21
+    2300078: Drive Wheel 22
+    2300080: Drive Wheel 23
+    2300082: Drive Wheel 3
+    2300084: Drive Wheel 4
+    2300086: Drive Wheel 5
+    2300088: Drive Wheel 6
+    2300090: Drive Wheel 7
+    2300092: Drive Wheel 8
+    2300094: Drive Wheel 9
+    2300096: Gear 3
+    2300098: Gear 3 1
+    2300100: Gear 3 10
+    2300102: Gear 3 11
+    2300104: Gear 3 12
+    2300106: Gear 3 13
+    2300108: Gear 3 14
+    2300110: Gear 3 15
+    2300112: Gear 3 16
+    2300114: Gear 3 17
+    2300116: Gear 3 18
+    2300118: Gear 3 19
+    2300120: Gear 3 2
+    2300122: Gear 3 20
+    2300124: Gear 3 21
+    2300126: Gear 3 22
+    2300128: Gear 3 23
+    2300130: Gear 3 3
+    2300132: Gear 3 4
+    2300134: Gear 3 5
+    2300136: Gear 3 6
+    2300138: Gear 3 7
+    2300140: Gear 3 8
+    2300142: Gear 3 9
+    2300144: Group 10
+    2300146: Group 12
+    2300148: Group 14
+    2300150: Group 16
+    2300152: Group 18
+    2300154: Group 2
+    2300156: Group 20
+    2300158: Group 22
+    2300160: Group 4
+    2300162: Group 6
+    2300164: Group 8
+    2300166: Main Axle
+    2300168: Main Axle 1
+    2300170: Main Axle 10
+    2300172: Main Axle 11
+    2300174: Main Axle 12
+    2300176: Main Axle 13
+    2300178: Main Axle 14
+    2300180: Main Axle 15
+    2300182: Main Axle 16
+    2300184: Main Axle 17
+    2300186: Main Axle 18
+    2300188: Main Axle 19
+    2300190: Main Axle 2
+    2300192: Main Axle 20
+    2300194: Main Axle 21
+    2300196: Main Axle 3
+    2300198: Main Axle 4
+    2300200: Main Axle 5
+    2300202: Main Axle 6
+    2300204: Main Axle 7
+    2300206: Main Axle 8
+    2300208: Main Axle 9
+    2300210: Presure Wheel
+    2300212: Presure Wheel 1
+    2300214: Presure Wheel 10
+    2300216: Presure Wheel 11
+    2300218: Presure Wheel 12
+    2300220: Presure Wheel 13
+    2300222: Presure Wheel 14
+    2300224: Presure Wheel 15
+    2300226: Presure Wheel 16
+    2300228: Presure Wheel 17
+    2300230: Presure Wheel 18
+    2300232: Presure Wheel 19
+    2300234: Presure Wheel 2
+    2300236: Presure Wheel 20
+    2300238: Presure Wheel 21
+    2300240: Presure Wheel 22
+    2300242: Presure Wheel 23
+    2300244: Presure Wheel 24
+    2300246: Presure Wheel 25
+    2300248: Presure Wheel 26
+    2300250: Presure Wheel 27
+    2300252: Presure Wheel 28
+    2300254: Presure Wheel 29
+    2300256: Presure Wheel 3
+    2300258: Presure Wheel 30
+    2300260: Presure Wheel 31
+    2300262: Presure Wheel 32
+    2300264: Presure Wheel 33
+    2300266: Presure Wheel 34
+    2300268: Presure Wheel 35
+    2300270: Presure Wheel 36
+    2300272: Presure Wheel 37
+    2300274: Presure Wheel 38
+    2300276: Presure Wheel 39
+    2300278: Presure Wheel 4
+    2300280: Presure Wheel 40
+    2300282: Presure Wheel 41
+    2300284: Presure Wheel 42
+    2300286: Presure Wheel 43
+    2300288: Presure Wheel 44
+    2300290: Presure Wheel 45
+    2300292: Presure Wheel 46
+    2300294: Presure Wheel 47
+    2300296: Presure Wheel 5
+    2300298: Presure Wheel 6
+    2300300: Presure Wheel 7
+    2300302: Presure Wheel 8
+    2300304: Presure Wheel 9
+    2300306: //RootNode
+    2300308: Wheel Clamp
+    2300310: Wheel Clamp 1
+    2300312: Wheel Clamp 10
+    2300314: Wheel Clamp 11
+    2300316: Wheel Clamp 12
+    2300318: Wheel Clamp 13
+    2300320: Wheel Clamp 14
+    2300322: Wheel Clamp 15
+    2300324: Wheel Clamp 16
+    2300326: Wheel Clamp 17
+    2300328: Wheel Clamp 18
+    2300330: Wheel Clamp 19
+    2300332: Wheel Clamp 2
+    2300334: Wheel Clamp 20
+    2300336: Wheel Clamp 21
+    2300338: Wheel Clamp 22
+    2300340: Wheel Clamp 23
+    2300342: Wheel Clamp 3
+    2300344: Wheel Clamp 4
+    2300346: Wheel Clamp 5
+    2300348: Wheel Clamp 6
+    2300350: Wheel Clamp 7
+    2300352: Wheel Clamp 8
+    2300354: Wheel Clamp 9
+    3300000: Drive Axle
+    3300002: Drive Axle 1
+    3300004: Drive Axle 10
+    3300006: Drive Axle 11
+    3300008: Drive Axle 12
+    3300010: Drive Axle 13
+    3300012: Drive Axle 14
+    3300014: Drive Axle 15
+    3300016: Drive Axle 16
+    3300018: Drive Axle 17
+    3300020: Drive Axle 18
+    3300022: Drive Axle 19
+    3300024: Drive Axle 2
+    3300026: Drive Axle 20
+    3300028: Drive Axle 21
+    3300030: Drive Axle 22
+    3300032: Drive Axle 23
+    3300034: Drive Axle 3
+    3300036: Drive Axle 4
+    3300038: Drive Axle 5
+    3300040: Drive Axle 6
+    3300042: Drive Axle 7
+    3300044: Drive Axle 8
+    3300046: Drive Axle 9
+    3300048: Drive Wheel
+    3300050: Drive Wheel 1
+    3300052: Drive Wheel 10
+    3300054: Drive Wheel 11
+    3300056: Drive Wheel 12
+    3300058: Drive Wheel 13
+    3300060: Drive Wheel 14
+    3300062: Drive Wheel 15
+    3300064: Drive Wheel 16
+    3300066: Drive Wheel 17
+    3300068: Drive Wheel 18
+    3300070: Drive Wheel 19
+    3300072: Drive Wheel 2
+    3300074: Drive Wheel 20
+    3300076: Drive Wheel 21
+    3300078: Drive Wheel 22
+    3300080: Drive Wheel 23
+    3300082: Drive Wheel 3
+    3300084: Drive Wheel 4
+    3300086: Drive Wheel 5
+    3300088: Drive Wheel 6
+    3300090: Drive Wheel 7
+    3300092: Drive Wheel 8
+    3300094: Drive Wheel 9
+    3300096: Gear 3
+    3300098: Gear 3 1
+    3300100: Gear 3 10
+    3300102: Gear 3 11
+    3300104: Gear 3 12
+    3300106: Gear 3 13
+    3300108: Gear 3 14
+    3300110: Gear 3 15
+    3300112: Gear 3 16
+    3300114: Gear 3 17
+    3300116: Gear 3 18
+    3300118: Gear 3 19
+    3300120: Gear 3 2
+    3300122: Gear 3 20
+    3300124: Gear 3 21
+    3300126: Gear 3 22
+    3300128: Gear 3 23
+    3300130: Gear 3 3
+    3300132: Gear 3 4
+    3300134: Gear 3 5
+    3300136: Gear 3 6
+    3300138: Gear 3 7
+    3300140: Gear 3 8
+    3300142: Gear 3 9
+    3300144: Group 10
+    3300146: Group 12
+    3300148: Group 14
+    3300150: Group 16
+    3300152: Group 18
+    3300154: Group 2
+    3300156: Group 20
+    3300158: Group 22
+    3300160: Group 4
+    3300162: Group 6
+    3300164: Group 8
+    3300166: Main Axle
+    3300168: Main Axle 1
+    3300170: Main Axle 10
+    3300172: Main Axle 11
+    3300174: Main Axle 12
+    3300176: Main Axle 13
+    3300178: Main Axle 14
+    3300180: Main Axle 15
+    3300182: Main Axle 16
+    3300184: Main Axle 17
+    3300186: Main Axle 18
+    3300188: Main Axle 19
+    3300190: Main Axle 2
+    3300192: Main Axle 20
+    3300194: Main Axle 21
+    3300196: Main Axle 3
+    3300198: Main Axle 4
+    3300200: Main Axle 5
+    3300202: Main Axle 6
+    3300204: Main Axle 7
+    3300206: Main Axle 8
+    3300208: Main Axle 9
+    3300210: Presure Wheel
+    3300212: Presure Wheel 1
+    3300214: Presure Wheel 10
+    3300216: Presure Wheel 11
+    3300218: Presure Wheel 12
+    3300220: Presure Wheel 13
+    3300222: Presure Wheel 14
+    3300224: Presure Wheel 15
+    3300226: Presure Wheel 16
+    3300228: Presure Wheel 17
+    3300230: Presure Wheel 18
+    3300232: Presure Wheel 19
+    3300234: Presure Wheel 2
+    3300236: Presure Wheel 20
+    3300238: Presure Wheel 21
+    3300240: Presure Wheel 22
+    3300242: Presure Wheel 23
+    3300244: Presure Wheel 24
+    3300246: Presure Wheel 25
+    3300248: Presure Wheel 26
+    3300250: Presure Wheel 27
+    3300252: Presure Wheel 28
+    3300254: Presure Wheel 29
+    3300256: Presure Wheel 3
+    3300258: Presure Wheel 30
+    3300260: Presure Wheel 31
+    3300262: Presure Wheel 32
+    3300264: Presure Wheel 33
+    3300266: Presure Wheel 34
+    3300268: Presure Wheel 35
+    3300270: Presure Wheel 36
+    3300272: Presure Wheel 37
+    3300274: Presure Wheel 38
+    3300276: Presure Wheel 39
+    3300278: Presure Wheel 4
+    3300280: Presure Wheel 40
+    3300282: Presure Wheel 41
+    3300284: Presure Wheel 42
+    3300286: Presure Wheel 43
+    3300288: Presure Wheel 44
+    3300290: Presure Wheel 45
+    3300292: Presure Wheel 46
+    3300294: Presure Wheel 47
+    3300296: Presure Wheel 5
+    3300298: Presure Wheel 6
+    3300300: Presure Wheel 7
+    3300302: Presure Wheel 8
+    3300304: Presure Wheel 9
+    3300306: //RootNode
+    3300308: Wheel Clamp
+    3300310: Wheel Clamp 1
+    3300312: Wheel Clamp 10
+    3300314: Wheel Clamp 11
+    3300316: Wheel Clamp 12
+    3300318: Wheel Clamp 13
+    3300320: Wheel Clamp 14
+    3300322: Wheel Clamp 15
+    3300324: Wheel Clamp 16
+    3300326: Wheel Clamp 17
+    3300328: Wheel Clamp 18
+    3300330: Wheel Clamp 19
+    3300332: Wheel Clamp 2
+    3300334: Wheel Clamp 20
+    3300336: Wheel Clamp 21
+    3300338: Wheel Clamp 22
+    3300340: Wheel Clamp 23
+    3300342: Wheel Clamp 3
+    3300344: Wheel Clamp 4
+    3300346: Wheel Clamp 5
+    3300348: Wheel Clamp 6
+    3300350: Wheel Clamp 7
+    3300352: Wheel Clamp 8
+    3300354: Wheel Clamp 9
+    4300000: Mesh Space+Elevator+-Class+A+(Luxury)+Hull+and+Drive+Mechanics
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Group 6
+    4300008: Mesh Group 8
+    4300010: Mesh Group 10
+    4300012: Mesh Group 16
+    4300014: Mesh Group 18
+    4300016: Mesh Group 20
+    4300018: Mesh Presure Wheel
+    4300020: Mesh Drive Axle
+    4300022: Mesh Drive Wheel
+    4300024: Mesh Wheel Clamp
+    4300026: Mesh Gear 3
+    4300028: Mesh Main Axle
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

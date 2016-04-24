@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: ea59f1342d24e924390cb26973136d4a
+timeCreated: 1461401054
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000060000000700000008000000090000000a0000000b0000000c0000000d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: f1ef9fcd38e626d565b34fcd9a80ba48
+  longitude: -98.27375
+  latitude: 49.916146
+  northCorrection: 0.5557070798869859
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -64.14389, y: 24.38712, z: 55.595787}
+      lookAt: {x: 43.81965, y: -30.15934, z: -32.028553}
+      up: {x: 0.28355446, y: 0.930932, z: -0.2301358}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -218.73311, y: 1.2379383, z: -122.37235}
+        lookAt: {x: -32.630466, y: 1.2379383, z: -122.37235}
+        up: {x: 0, y: 1, z: 0}
+        fov: 1
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Google Earth Terrain
+    100002: hvac
+    100004: hvac 1
+    100006: hvac#1
+    100008: SB
+    100010: //RootNode
+    400000: Google Earth Terrain
+    400002: hvac
+    400004: hvac 1
+    400006: hvac#1
+    400008: SB
+    400010: //RootNode
+    2300000: Google Earth Terrain
+    2300002: hvac
+    2300004: hvac 1
+    2300006: hvac#1
+    2300008: SB
+    2300010: //RootNode
+    3300000: Google Earth Terrain
+    3300002: hvac
+    3300004: hvac 1
+    3300006: hvac#1
+    3300008: SB
+    3300010: //RootNode
+    4300000: Mesh Southport+Building2
+    4300002: Mesh Google Earth Terrain
+    4300004: Mesh SB
+    4300006: Mesh hvac
+    4300008: Mesh hvac#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

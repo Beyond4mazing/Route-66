@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: 5b65d020816bbff4daf3f44c4d180d83
+timeCreated: 1461405799
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f0200007002000071020000720200007302000074020000750200007602000077020000
+  assetHash:
+    serializedVersion: 2
+    Hash: c4b5b8c1b13ef691c2b14ecf6ed687d0
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 15.4909725, y: 31.220211, z: 9.224187}
+      lookAt: {x: -1.1812205, y: 7.392396, z: 14.966502}
+      up: {x: -0.76001257, y: 0.59486043, z: 0.26176703}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: capsule
+    100002: capsule 1
+    100004: capsule 10
+    100006: capsule 11
+    100008: capsule 12
+    100010: capsule 13
+    100012: capsule 14
+    100014: capsule 15
+    100016: capsule 2
+    100018: capsule 3
+    100020: capsule 4
+    100022: capsule 5
+    100024: capsule 6
+    100026: capsule 7
+    100028: capsule 8
+    100030: capsule 9
+    100032: Component#1
+    100034: Component#1 1
+    100036: Component#10
+    100038: Component#10 1
+    100040: Component#10 10
+    100042: Component#10 11
+    100044: Component#10 12
+    100046: Component#10 13
+    100048: Component#10 14
+    100050: Component#10 15
+    100052: Component#10 2
+    100054: Component#10 3
+    100056: Component#10 4
+    100058: Component#10 5
+    100060: Component#10 6
+    100062: Component#10 7
+    100064: Component#10 8
+    100066: Component#10 9
+    100068: Component#11
+    100070: Component#11 1
+    100072: Component#12
+    100074: Component#12 1
+    100076: Component#12 2
+    100078: Component#12 3
+    100080: Component#13
+    100082: Component#2
+    100084: Component#2 1
+    100086: Component#2 10
+    100088: Component#2 100
+    100090: Component#2 101
+    100092: Component#2 102
+    100094: Component#2 103
+    100096: Component#2 104
+    100098: Component#2 105
+    100100: Component#2 106
+    100102: Component#2 107
+    100104: Component#2 108
+    100106: Component#2 109
+    100108: Component#2 11
+    100110: Component#2 110
+    100112: Component#2 111
+    100114: Component#2 112
+    100116: Component#2 113
+    100118: Component#2 114
+    100120: Component#2 115
+    100122: Component#2 116
+    100124: Component#2 117
+    100126: Component#2 118
+    100128: Component#2 119
+    100130: Component#2 12
+    100132: Component#2 13
+    100134: Component#2 14
+    100136: Component#2 15
+    100138: Component#2 16
+    100140: Component#2 17
+    100142: Component#2 18
+    100144: Component#2 19
+    100146: Component#2 2
+    100148: Component#2 20
+    100150: Component#2 21
+    100152: Component#2 22
+    100154: Component#2 23
+    100156: Component#2 24
+    100158: Component#2 25
+    100160: Component#2 26
+    100162: Component#2 27
+    100164: Component#2 28
+    100166: Component#2 29
+    100168: Component#2 3
+    100170: Component#2 30
+    100172: Component#2 31
+    100174: Component#2 32
+    100176: Component#2 33
+    100178: Component#2 34
+    100180: Component#2 35
+    100182: Component#2 36
+    100184: Component#2 37
+    100186: Component#2 38
+    100188: Component#2 39
+    100190: Component#2 4
+    100192: Component#2 40
+    100194: Component#2 41
+    100196: Component#2 42
+    100198: Component#2 43
+    100200: Component#2 44
+    100202: Component#2 45
+    100204: Component#2 46
+    100206: Component#2 47
+    100208: Component#2 48
+    100210: Component#2 49
+    100212: Component#2 5
+    100214: Component#2 50
+    100216: Component#2 51
+    100218: Component#2 52
+    100220: Component#2 53
+    100222: Component#2 54
+    100224: Component#2 55
+    100226: Component#2 56
+    100228: Component#2 57
+    100230: Component#2 58
+    100232: Component#2 59
+    100234: Component#2 6
+    100236: Component#2 60
+    100238: Component#2 61
+    100240: Component#2 62
+    100242: Component#2 63
+    100244: Component#2 64
+    100246: Component#2 65
+    100248: Component#2 66
+    100250: Component#2 67
+    100252: Component#2 68
+    100254: Component#2 69
+    100256: Component#2 7
+    100258: Component#2 70
+    100260: Component#2 71
+    100262: Component#2 72
+    100264: Component#2 73
+    100266: Component#2 74
+    100268: Component#2 75
+    100270: Component#2 76
+    100272: Component#2 77
+    100274: Component#2 78
+    100276: Component#2 79
+    100278: Component#2 8
+    100280: Component#2 80
+    100282: Component#2 81
+    100284: Component#2 82
+    100286: Component#2 83
+    100288: Component#2 84
+    100290: Component#2 85
+    100292: Component#2 86
+    100294: Component#2 87
+    100296: Component#2 88
+    100298: Component#2 89
+    100300: Component#2 9
+    100302: Component#2 90
+    100304: Component#2 91
+    100306: Component#2 92
+    100308: Component#2 93
+    100310: Component#2 94
+    100312: Component#2 95
+    100314: Component#2 96
+    100316: Component#2 97
+    100318: Component#2 98
+    100320: Component#2 99
+    100322: Component#3
+    100324: Component#3 1
+    100326: Component#3 2
+    100328: Component#3 3
+    100330: Component#3 4
+    100332: Component#3 5
+    100334: Component#3 6
+    100336: Component#3 7
+    100338: Component#3 8
+    100340: Component#3 9
+    100342: Component#4
+    100344: Component#4 1
+    100346: Component#5
+    100348: Component#5 1
+    100350: Component#5 10
+    100352: Component#5 11
+    100354: Component#5 12
+    100356: Component#5 13
+    100358: Component#5 14
+    100360: Component#5 15
+    100362: Component#5 16
+    100364: Component#5 17
+    100366: Component#5 18
+    100368: Component#5 19
+    100370: Component#5 2
+    100372: Component#5 20
+    100374: Component#5 21
+    100376: Component#5 22
+    100378: Component#5 23
+    100380: Component#5 24
+    100382: Component#5 25
+    100384: Component#5 26
+    100386: Component#5 27
+    100388: Component#5 28
+    100390: Component#5 29
+    100392: Component#5 3
+    100394: Component#5 30
+    100396: Component#5 31
+    100398: Component#5 32
+    100400: Component#5 33
+    100402: Component#5 34
+    100404: Component#5 35
+    100406: Component#5 36
+    100408: Component#5 37
+    100410: Component#5 38
+    100412: Component#5 39
+    100414: Component#5 4
+    100416: Component#5 40
+    100418: Component#5 41
+    100420: Component#5 42
+    100422: Component#5 43
+    100424: Component#5 44
+    100426: Component#5 45
+    100428: Component#5 46
+    100430: Component#5 47
+    100432: Component#5 48
+    100434: Component#5 49
+    100436: Component#5 5
+    100438: Component#5 50
+    100440: Component#5 51
+    100442: Component#5 52
+    100444: Component#5 53
+    100446: Component#5 54
+    100448: Component#5 55
+    100450: Component#5 56
+    100452: Component#5 57
+    100454: Component#5 58
+    100456: Component#5 59
+    100458: Component#5 6
+    100460: Component#5 60
+    100462: Component#5 61
+    100464: Component#5 62
+    100466: Component#5 63
+    100468: Component#5 64
+    100470: Component#5 65
+    100472: Component#5 66
+    100474: Component#5 67
+    100476: Component#5 68
+    100478: Component#5 69
+    100480: Component#5 7
+    100482: Component#5 70
+    100484: Component#5 71
+    100486: Component#5 72
+    100488: Component#5 73
+    100490: Component#5 74
+    100492: Component#5 75
+    100494: Component#5 76
+    100496: Component#5 77
+    100498: Component#5 78
+    100500: Component#5 79
+    100502: Component#5 8
+    100504: Component#5 80
+    100506: Component#5 81
+    100508: Component#5 82
+    100510: Component#5 83
+    100512: Component#5 84
+    100514: Component#5 85
+    100516: Component#5 86
+    100518: Component#5 87
+    100520: Component#5 88
+    100522: Component#5 89
+    100524: Component#5 9
+    100526: Component#5 90
+    100528: Component#5 91
+    100530: Component#5 92
+    100532: Component#5 93
+    100534: Component#5 94
+    100536: Component#5 95
+    100538: Component#6
+    100540: Component#6 1
+    100542: Component#6 10
+    100544: Component#6 11
+    100546: Component#6 12
+    100548: Component#6 13
+    100550: Component#6 14
+    100552: Component#6 15
+    100554: Component#6 16
+    100556: Component#6 17
+    100558: Component#6 18
+    100560: Component#6 19
+    100562: Component#6 2
+    100564: Component#6 20
+    100566: Component#6 21
+    100568: Component#6 22
+    100570: Component#6 23
+    100572: Component#6 24
+    100574: Component#6 25
+    100576: Component#6 26
+    100578: Component#6 27
+    100580: Component#6 28
+    100582: Component#6 29
+    100584: Component#6 3
+    100586: Component#6 30
+    100588: Component#6 31
+    100590: Component#6 32
+    100592: Component#6 33
+    100594: Component#6 34
+    100596: Component#6 35
+    100598: Component#6 36
+    100600: Component#6 37
+    100602: Component#6 38
+    100604: Component#6 39
+    100606: Component#6 4
+    100608: Component#6 40
+    100610: Component#6 41
+    100612: Component#6 42
+    100614: Component#6 43
+    100616: Component#6 44
+    100618: Component#6 45
+    100620: Component#6 46
+    100622: Component#6 47
+    100624: Component#6 5
+    100626: Component#6 6
+    100628: Component#6 7
+    100630: Component#6 8
+    100632: Component#6 9
+    100634: Component#7
+    100636: Component#7 1
+    100638: Component#7 10
+    100640: Component#7 11
+    100642: Component#7 12
+    100644: Component#7 13
+    100646: Component#7 14
+    100648: Component#7 15
+    100650: Component#7 16
+    100652: Component#7 17
+    100654: Component#7 18
+    100656: Component#7 19
+    100658: Component#7 2
+    100660: Component#7 20
+    100662: Component#7 21
+    100664: Component#7 22
+    100666: Component#7 23
+    100668: Component#7 3
+    100670: Component#7 4
+    100672: Component#7 5
+    100674: Component#7 6
+    100676: Component#7 7
+    100678: Component#7 8
+    100680: Component#7 9
+    100682: Component#8
+    100684: Component#8 1
+    100686: Component#8 10
+    100688: Component#8 11
+    100690: Component#8 2
+    100692: Component#8 3
+    100694: Component#8 4
+    100696: Component#8 5
+    100698: Component#8 6
+    100700: Component#8 7
+    100702: Component#8 8
+    100704: Component#8 9
+    100706: Component#9
+    100708: Component#9 1
+    100710: Component#9 2
+    100712: Component#9 3
+    100714: //RootNode
+    400000: capsule
+    400002: capsule 1
+    400004: capsule 10
+    400006: capsule 11
+    400008: capsule 12
+    400010: capsule 13
+    400012: capsule 14
+    400014: capsule 15
+    400016: capsule 2
+    400018: capsule 3
+    400020: capsule 4
+    400022: capsule 5
+    400024: capsule 6
+    400026: capsule 7
+    400028: capsule 8
+    400030: capsule 9
+    400032: Component#1
+    400034: Component#1 1
+    400036: Component#10
+    400038: Component#10 1
+    400040: Component#10 10
+    400042: Component#10 11
+    400044: Component#10 12
+    400046: Component#10 13
+    400048: Component#10 14
+    400050: Component#10 15
+    400052: Component#10 2
+    400054: Component#10 3
+    400056: Component#10 4
+    400058: Component#10 5
+    400060: Component#10 6
+    400062: Component#10 7
+    400064: Component#10 8
+    400066: Component#10 9
+    400068: Component#11
+    400070: Component#11 1
+    400072: Component#12
+    400074: Component#12 1
+    400076: Component#12 2
+    400078: Component#12 3
+    400080: Component#13
+    400082: Component#2
+    400084: Component#2 1
+    400086: Component#2 10
+    400088: Component#2 100
+    400090: Component#2 101
+    400092: Component#2 102
+    400094: Component#2 103
+    400096: Component#2 104
+    400098: Component#2 105
+    400100: Component#2 106
+    400102: Component#2 107
+    400104: Component#2 108
+    400106: Component#2 109
+    400108: Component#2 11
+    400110: Component#2 110
+    400112: Component#2 111
+    400114: Component#2 112
+    400116: Component#2 113
+    400118: Component#2 114
+    400120: Component#2 115
+    400122: Component#2 116
+    400124: Component#2 117
+    400126: Component#2 118
+    400128: Component#2 119
+    400130: Component#2 12
+    400132: Component#2 13
+    400134: Component#2 14
+    400136: Component#2 15
+    400138: Component#2 16
+    400140: Component#2 17
+    400142: Component#2 18
+    400144: Component#2 19
+    400146: Component#2 2
+    400148: Component#2 20
+    400150: Component#2 21
+    400152: Component#2 22
+    400154: Component#2 23
+    400156: Component#2 24
+    400158: Component#2 25
+    400160: Component#2 26
+    400162: Component#2 27
+    400164: Component#2 28
+    400166: Component#2 29
+    400168: Component#2 3
+    400170: Component#2 30
+    400172: Component#2 31
+    400174: Component#2 32
+    400176: Component#2 33
+    400178: Component#2 34
+    400180: Component#2 35
+    400182: Component#2 36
+    400184: Component#2 37
+    400186: Component#2 38
+    400188: Component#2 39
+    400190: Component#2 4
+    400192: Component#2 40
+    400194: Component#2 41
+    400196: Component#2 42
+    400198: Component#2 43
+    400200: Component#2 44
+    400202: Component#2 45
+    400204: Component#2 46
+    400206: Component#2 47
+    400208: Component#2 48
+    400210: Component#2 49
+    400212: Component#2 5
+    400214: Component#2 50
+    400216: Component#2 51
+    400218: Component#2 52
+    400220: Component#2 53
+    400222: Component#2 54
+    400224: Component#2 55
+    400226: Component#2 56
+    400228: Component#2 57
+    400230: Component#2 58
+    400232: Component#2 59
+    400234: Component#2 6
+    400236: Component#2 60
+    400238: Component#2 61
+    400240: Component#2 62
+    400242: Component#2 63
+    400244: Component#2 64
+    400246: Component#2 65
+    400248: Component#2 66
+    400250: Component#2 67
+    400252: Component#2 68
+    400254: Component#2 69
+    400256: Component#2 7
+    400258: Component#2 70
+    400260: Component#2 71
+    400262: Component#2 72
+    400264: Component#2 73
+    400266: Component#2 74
+    400268: Component#2 75
+    400270: Component#2 76
+    400272: Component#2 77
+    400274: Component#2 78
+    400276: Component#2 79
+    400278: Component#2 8
+    400280: Component#2 80
+    400282: Component#2 81
+    400284: Component#2 82
+    400286: Component#2 83
+    400288: Component#2 84
+    400290: Component#2 85
+    400292: Component#2 86
+    400294: Component#2 87
+    400296: Component#2 88
+    400298: Component#2 89
+    400300: Component#2 9
+    400302: Component#2 90
+    400304: Component#2 91
+    400306: Component#2 92
+    400308: Component#2 93
+    400310: Component#2 94
+    400312: Component#2 95
+    400314: Component#2 96
+    400316: Component#2 97
+    400318: Component#2 98
+    400320: Component#2 99
+    400322: Component#3
+    400324: Component#3 1
+    400326: Component#3 2
+    400328: Component#3 3
+    400330: Component#3 4
+    400332: Component#3 5
+    400334: Component#3 6
+    400336: Component#3 7
+    400338: Component#3 8
+    400340: Component#3 9
+    400342: Component#4
+    400344: Component#4 1
+    400346: Component#5
+    400348: Component#5 1
+    400350: Component#5 10
+    400352: Component#5 11
+    400354: Component#5 12
+    400356: Component#5 13
+    400358: Component#5 14
+    400360: Component#5 15
+    400362: Component#5 16
+    400364: Component#5 17
+    400366: Component#5 18
+    400368: Component#5 19
+    400370: Component#5 2
+    400372: Component#5 20
+    400374: Component#5 21
+    400376: Component#5 22
+    400378: Component#5 23
+    400380: Component#5 24
+    400382: Component#5 25
+    400384: Component#5 26
+    400386: Component#5 27
+    400388: Component#5 28
+    400390: Component#5 29
+    400392: Component#5 3
+    400394: Component#5 30
+    400396: Component#5 31
+    400398: Component#5 32
+    400400: Component#5 33
+    400402: Component#5 34
+    400404: Component#5 35
+    400406: Component#5 36
+    400408: Component#5 37
+    400410: Component#5 38
+    400412: Component#5 39
+    400414: Component#5 4
+    400416: Component#5 40
+    400418: Component#5 41
+    400420: Component#5 42
+    400422: Component#5 43
+    400424: Component#5 44
+    400426: Component#5 45
+    400428: Component#5 46
+    400430: Component#5 47
+    400432: Component#5 48
+    400434: Component#5 49
+    400436: Component#5 5
+    400438: Component#5 50
+    400440: Component#5 51
+    400442: Component#5 52
+    400444: Component#5 53
+    400446: Component#5 54
+    400448: Component#5 55
+    400450: Component#5 56
+    400452: Component#5 57
+    400454: Component#5 58
+    400456: Component#5 59
+    400458: Component#5 6
+    400460: Component#5 60
+    400462: Component#5 61
+    400464: Component#5 62
+    400466: Component#5 63
+    400468: Component#5 64
+    400470: Component#5 65
+    400472: Component#5 66
+    400474: Component#5 67
+    400476: Component#5 68
+    400478: Component#5 69
+    400480: Component#5 7
+    400482: Component#5 70
+    400484: Component#5 71
+    400486: Component#5 72
+    400488: Component#5 73
+    400490: Component#5 74
+    400492: Component#5 75
+    400494: Component#5 76
+    400496: Component#5 77
+    400498: Component#5 78
+    400500: Component#5 79
+    400502: Component#5 8
+    400504: Component#5 80
+    400506: Component#5 81
+    400508: Component#5 82
+    400510: Component#5 83
+    400512: Component#5 84
+    400514: Component#5 85
+    400516: Component#5 86
+    400518: Component#5 87
+    400520: Component#5 88
+    400522: Component#5 89
+    400524: Component#5 9
+    400526: Component#5 90
+    400528: Component#5 91
+    400530: Component#5 92
+    400532: Component#5 93
+    400534: Component#5 94
+    400536: Component#5 95
+    400538: Component#6
+    400540: Component#6 1
+    400542: Component#6 10
+    400544: Component#6 11
+    400546: Component#6 12
+    400548: Component#6 13
+    400550: Component#6 14
+    400552: Component#6 15
+    400554: Component#6 16
+    400556: Component#6 17
+    400558: Component#6 18
+    400560: Component#6 19
+    400562: Component#6 2
+    400564: Component#6 20
+    400566: Component#6 21
+    400568: Component#6 22
+    400570: Component#6 23
+    400572: Component#6 24
+    400574: Component#6 25
+    400576: Component#6 26
+    400578: Component#6 27
+    400580: Component#6 28
+    400582: Component#6 29
+    400584: Component#6 3
+    400586: Component#6 30
+    400588: Component#6 31
+    400590: Component#6 32
+    400592: Component#6 33
+    400594: Component#6 34
+    400596: Component#6 35
+    400598: Component#6 36
+    400600: Component#6 37
+    400602: Component#6 38
+    400604: Component#6 39
+    400606: Component#6 4
+    400608: Component#6 40
+    400610: Component#6 41
+    400612: Component#6 42
+    400614: Component#6 43
+    400616: Component#6 44
+    400618: Component#6 45
+    400620: Component#6 46
+    400622: Component#6 47
+    400624: Component#6 5
+    400626: Component#6 6
+    400628: Component#6 7
+    400630: Component#6 8
+    400632: Component#6 9
+    400634: Component#7
+    400636: Component#7 1
+    400638: Component#7 10
+    400640: Component#7 11
+    400642: Component#7 12
+    400644: Component#7 13
+    400646: Component#7 14
+    400648: Component#7 15
+    400650: Component#7 16
+    400652: Component#7 17
+    400654: Component#7 18
+    400656: Component#7 19
+    400658: Component#7 2
+    400660: Component#7 20
+    400662: Component#7 21
+    400664: Component#7 22
+    400666: Component#7 23
+    400668: Component#7 3
+    400670: Component#7 4
+    400672: Component#7 5
+    400674: Component#7 6
+    400676: Component#7 7
+    400678: Component#7 8
+    400680: Component#7 9
+    400682: Component#8
+    400684: Component#8 1
+    400686: Component#8 10
+    400688: Component#8 11
+    400690: Component#8 2
+    400692: Component#8 3
+    400694: Component#8 4
+    400696: Component#8 5
+    400698: Component#8 6
+    400700: Component#8 7
+    400702: Component#8 8
+    400704: Component#8 9
+    400706: Component#9
+    400708: Component#9 1
+    400710: Component#9 2
+    400712: Component#9 3
+    400714: //RootNode
+    2300000: capsule
+    2300002: capsule 1
+    2300004: capsule 10
+    2300006: capsule 11
+    2300008: capsule 12
+    2300010: capsule 13
+    2300012: capsule 14
+    2300014: capsule 15
+    2300016: capsule 2
+    2300018: capsule 3
+    2300020: capsule 4
+    2300022: capsule 5
+    2300024: capsule 6
+    2300026: capsule 7
+    2300028: capsule 8
+    2300030: capsule 9
+    2300032: Component#1
+    2300034: Component#1 1
+    2300036: Component#10
+    2300038: Component#10 1
+    2300040: Component#10 10
+    2300042: Component#10 11
+    2300044: Component#10 12
+    2300046: Component#10 13
+    2300048: Component#10 14
+    2300050: Component#10 15
+    2300052: Component#10 2
+    2300054: Component#10 3
+    2300056: Component#10 4
+    2300058: Component#10 5
+    2300060: Component#10 6
+    2300062: Component#10 7
+    2300064: Component#10 8
+    2300066: Component#10 9
+    2300068: Component#11
+    2300070: Component#11 1
+    2300072: Component#12
+    2300074: Component#12 1
+    2300076: Component#12 2
+    2300078: Component#12 3
+    2300080: Component#13
+    2300082: Component#2
+    2300084: Component#2 1
+    2300086: Component#2 10
+    2300088: Component#2 100
+    2300090: Component#2 101
+    2300092: Component#2 102
+    2300094: Component#2 103
+    2300096: Component#2 104
+    2300098: Component#2 105
+    2300100: Component#2 106
+    2300102: Component#2 107
+    2300104: Component#2 108
+    2300106: Component#2 109
+    2300108: Component#2 11
+    2300110: Component#2 110
+    2300112: Component#2 111
+    2300114: Component#2 112
+    2300116: Component#2 113
+    2300118: Component#2 114
+    2300120: Component#2 115
+    2300122: Component#2 116
+    2300124: Component#2 117
+    2300126: Component#2 118
+    2300128: Component#2 119
+    2300130: Component#2 12
+    2300132: Component#2 13
+    2300134: Component#2 14
+    2300136: Component#2 15
+    2300138: Component#2 16
+    2300140: Component#2 17
+    2300142: Component#2 18
+    2300144: Component#2 19
+    2300146: Component#2 2
+    2300148: Component#2 20
+    2300150: Component#2 21
+    2300152: Component#2 22
+    2300154: Component#2 23
+    2300156: Component#2 24
+    2300158: Component#2 25
+    2300160: Component#2 26
+    2300162: Component#2 27
+    2300164: Component#2 28
+    2300166: Component#2 29
+    2300168: Component#2 3
+    2300170: Component#2 30
+    2300172: Component#2 31
+    2300174: Component#2 32
+    2300176: Component#2 33
+    2300178: Component#2 34
+    2300180: Component#2 35
+    2300182: Component#2 36
+    2300184: Component#2 37
+    2300186: Component#2 38
+    2300188: Component#2 39
+    2300190: Component#2 4
+    2300192: Component#2 40
+    2300194: Component#2 41
+    2300196: Component#2 42
+    2300198: Component#2 43
+    2300200: Component#2 44
+    2300202: Component#2 45
+    2300204: Component#2 46
+    2300206: Component#2 47
+    2300208: Component#2 48
+    2300210: Component#2 49
+    2300212: Component#2 5
+    2300214: Component#2 50
+    2300216: Component#2 51
+    2300218: Component#2 52
+    2300220: Component#2 53
+    2300222: Component#2 54
+    2300224: Component#2 55
+    2300226: Component#2 56
+    2300228: Component#2 57
+    2300230: Component#2 58
+    2300232: Component#2 59
+    2300234: Component#2 6
+    2300236: Component#2 60
+    2300238: Component#2 61
+    2300240: Component#2 62
+    2300242: Component#2 63
+    2300244: Component#2 64
+    2300246: Component#2 65
+    2300248: Component#2 66
+    2300250: Component#2 67
+    2300252: Component#2 68
+    2300254: Component#2 69
+    2300256: Component#2 7
+    2300258: Component#2 70
+    2300260: Component#2 71
+    2300262: Component#2 72
+    2300264: Component#2 73
+    2300266: Component#2 74
+    2300268: Component#2 75
+    2300270: Component#2 76
+    2300272: Component#2 77
+    2300274: Component#2 78
+    2300276: Component#2 79
+    2300278: Component#2 8
+    2300280: Component#2 80
+    2300282: Component#2 81
+    2300284: Component#2 82
+    2300286: Component#2 83
+    2300288: Component#2 84
+    2300290: Component#2 85
+    2300292: Component#2 86
+    2300294: Component#2 87
+    2300296: Component#2 88
+    2300298: Component#2 89
+    2300300: Component#2 9
+    2300302: Component#2 90
+    2300304: Component#2 91
+    2300306: Component#2 92
+    2300308: Component#2 93
+    2300310: Component#2 94
+    2300312: Component#2 95
+    2300314: Component#2 96
+    2300316: Component#2 97
+    2300318: Component#2 98
+    2300320: Component#2 99
+    2300322: Component#3
+    2300324: Component#3 1
+    2300326: Component#3 2
+    2300328: Component#3 3
+    2300330: Component#3 4
+    2300332: Component#3 5
+    2300334: Component#3 6
+    2300336: Component#3 7
+    2300338: Component#3 8
+    2300340: Component#3 9
+    2300342: Component#4
+    2300344: Component#4 1
+    2300346: Component#5
+    2300348: Component#5 1
+    2300350: Component#5 10
+    2300352: Component#5 11
+    2300354: Component#5 12
+    2300356: Component#5 13
+    2300358: Component#5 14
+    2300360: Component#5 15
+    2300362: Component#5 16
+    2300364: Component#5 17
+    2300366: Component#5 18
+    2300368: Component#5 19
+    2300370: Component#5 2
+    2300372: Component#5 20
+    2300374: Component#5 21
+    2300376: Component#5 22
+    2300378: Component#5 23
+    2300380: Component#5 24
+    2300382: Component#5 25
+    2300384: Component#5 26
+    2300386: Component#5 27
+    2300388: Component#5 28
+    2300390: Component#5 29
+    2300392: Component#5 3
+    2300394: Component#5 30
+    2300396: Component#5 31
+    2300398: Component#5 32
+    2300400: Component#5 33
+    2300402: Component#5 34
+    2300404: Component#5 35
+    2300406: Component#5 36
+    2300408: Component#5 37
+    2300410: Component#5 38
+    2300412: Component#5 39
+    2300414: Component#5 4
+    2300416: Component#5 40
+    2300418: Component#5 41
+    2300420: Component#5 42
+    2300422: Component#5 43
+    2300424: Component#5 44
+    2300426: Component#5 45
+    2300428: Component#5 46
+    2300430: Component#5 47
+    2300432: Component#5 48
+    2300434: Component#5 49
+    2300436: Component#5 5
+    2300438: Component#5 50
+    2300440: Component#5 51
+    2300442: Component#5 52
+    2300444: Component#5 53
+    2300446: Component#5 54
+    2300448: Component#5 55
+    2300450: Component#5 56
+    2300452: Component#5 57
+    2300454: Component#5 58
+    2300456: Component#5 59
+    2300458: Component#5 6
+    2300460: Component#5 60
+    2300462: Component#5 61
+    2300464: Component#5 62
+    2300466: Component#5 63
+    2300468: Component#5 64
+    2300470: Component#5 65
+    2300472: Component#5 66
+    2300474: Component#5 67
+    2300476: Component#5 68
+    2300478: Component#5 69
+    2300480: Component#5 7
+    2300482: Component#5 70
+    2300484: Component#5 71
+    2300486: Component#5 72
+    2300488: Component#5 73
+    2300490: Component#5 74
+    2300492: Component#5 75
+    2300494: Component#5 76
+    2300496: Component#5 77
+    2300498: Component#5 78
+    2300500: Component#5 79
+    2300502: Component#5 8
+    2300504: Component#5 80
+    2300506: Component#5 81
+    2300508: Component#5 82
+    2300510: Component#5 83
+    2300512: Component#5 84
+    2300514: Component#5 85
+    2300516: Component#5 86
+    2300518: Component#5 87
+    2300520: Component#5 88
+    2300522: Component#5 89
+    2300524: Component#5 9
+    2300526: Component#5 90
+    2300528: Component#5 91
+    2300530: Component#5 92
+    2300532: Component#5 93
+    2300534: Component#5 94
+    2300536: Component#5 95
+    2300538: Component#9
+    2300540: Component#9 1
+    2300542: Component#9 2
+    2300544: Component#9 3
+    2300546: //RootNode
+    3300000: capsule
+    3300002: capsule 1
+    3300004: capsule 10
+    3300006: capsule 11
+    3300008: capsule 12
+    3300010: capsule 13
+    3300012: capsule 14
+    3300014: capsule 15
+    3300016: capsule 2
+    3300018: capsule 3
+    3300020: capsule 4
+    3300022: capsule 5
+    3300024: capsule 6
+    3300026: capsule 7
+    3300028: capsule 8
+    3300030: capsule 9
+    3300032: Component#1
+    3300034: Component#1 1
+    3300036: Component#10
+    3300038: Component#10 1
+    3300040: Component#10 10
+    3300042: Component#10 11
+    3300044: Component#10 12
+    3300046: Component#10 13
+    3300048: Component#10 14
+    3300050: Component#10 15
+    3300052: Component#10 2
+    3300054: Component#10 3
+    3300056: Component#10 4
+    3300058: Component#10 5
+    3300060: Component#10 6
+    3300062: Component#10 7
+    3300064: Component#10 8
+    3300066: Component#10 9
+    3300068: Component#11
+    3300070: Component#11 1
+    3300072: Component#12
+    3300074: Component#12 1
+    3300076: Component#12 2
+    3300078: Component#12 3
+    3300080: Component#13
+    3300082: Component#2
+    3300084: Component#2 1
+    3300086: Component#2 10
+    3300088: Component#2 100
+    3300090: Component#2 101
+    3300092: Component#2 102
+    3300094: Component#2 103
+    3300096: Component#2 104
+    3300098: Component#2 105
+    3300100: Component#2 106
+    3300102: Component#2 107
+    3300104: Component#2 108
+    3300106: Component#2 109
+    3300108: Component#2 11
+    3300110: Component#2 110
+    3300112: Component#2 111
+    3300114: Component#2 112
+    3300116: Component#2 113
+    3300118: Component#2 114
+    3300120: Component#2 115
+    3300122: Component#2 116
+    3300124: Component#2 117
+    3300126: Component#2 118
+    3300128: Component#2 119
+    3300130: Component#2 12
+    3300132: Component#2 13
+    3300134: Component#2 14
+    3300136: Component#2 15
+    3300138: Component#2 16
+    3300140: Component#2 17
+    3300142: Component#2 18
+    3300144: Component#2 19
+    3300146: Component#2 2
+    3300148: Component#2 20
+    3300150: Component#2 21
+    3300152: Component#2 22
+    3300154: Component#2 23
+    3300156: Component#2 24
+    3300158: Component#2 25
+    3300160: Component#2 26
+    3300162: Component#2 27
+    3300164: Component#2 28
+    3300166: Component#2 29
+    3300168: Component#2 3
+    3300170: Component#2 30
+    3300172: Component#2 31
+    3300174: Component#2 32
+    3300176: Component#2 33
+    3300178: Component#2 34
+    3300180: Component#2 35
+    3300182: Component#2 36
+    3300184: Component#2 37
+    3300186: Component#2 38
+    3300188: Component#2 39
+    3300190: Component#2 4
+    3300192: Component#2 40
+    3300194: Component#2 41
+    3300196: Component#2 42
+    3300198: Component#2 43
+    3300200: Component#2 44
+    3300202: Component#2 45
+    3300204: Component#2 46
+    3300206: Component#2 47
+    3300208: Component#2 48
+    3300210: Component#2 49
+    3300212: Component#2 5
+    3300214: Component#2 50
+    3300216: Component#2 51
+    3300218: Component#2 52
+    3300220: Component#2 53
+    3300222: Component#2 54
+    3300224: Component#2 55
+    3300226: Component#2 56
+    3300228: Component#2 57
+    3300230: Component#2 58
+    3300232: Component#2 59
+    3300234: Component#2 6
+    3300236: Component#2 60
+    3300238: Component#2 61
+    3300240: Component#2 62
+    3300242: Component#2 63
+    3300244: Component#2 64
+    3300246: Component#2 65
+    3300248: Component#2 66
+    3300250: Component#2 67
+    3300252: Component#2 68
+    3300254: Component#2 69
+    3300256: Component#2 7
+    3300258: Component#2 70
+    3300260: Component#2 71
+    3300262: Component#2 72
+    3300264: Component#2 73
+    3300266: Component#2 74
+    3300268: Component#2 75
+    3300270: Component#2 76
+    3300272: Component#2 77
+    3300274: Component#2 78
+    3300276: Component#2 79
+    3300278: Component#2 8
+    3300280: Component#2 80
+    3300282: Component#2 81
+    3300284: Component#2 82
+    3300286: Component#2 83
+    3300288: Component#2 84
+    3300290: Component#2 85
+    3300292: Component#2 86
+    3300294: Component#2 87
+    3300296: Component#2 88
+    3300298: Component#2 89
+    3300300: Component#2 9
+    3300302: Component#2 90
+    3300304: Component#2 91
+    3300306: Component#2 92
+    3300308: Component#2 93
+    3300310: Component#2 94
+    3300312: Component#2 95
+    3300314: Component#2 96
+    3300316: Component#2 97
+    3300318: Component#2 98
+    3300320: Component#2 99
+    3300322: Component#3
+    3300324: Component#3 1
+    3300326: Component#3 2
+    3300328: Component#3 3
+    3300330: Component#3 4
+    3300332: Component#3 5
+    3300334: Component#3 6
+    3300336: Component#3 7
+    3300338: Component#3 8
+    3300340: Component#3 9
+    3300342: Component#4
+    3300344: Component#4 1
+    3300346: Component#5
+    3300348: Component#5 1
+    3300350: Component#5 10
+    3300352: Component#5 11
+    3300354: Component#5 12
+    3300356: Component#5 13
+    3300358: Component#5 14
+    3300360: Component#5 15
+    3300362: Component#5 16
+    3300364: Component#5 17
+    3300366: Component#5 18
+    3300368: Component#5 19
+    3300370: Component#5 2
+    3300372: Component#5 20
+    3300374: Component#5 21
+    3300376: Component#5 22
+    3300378: Component#5 23
+    3300380: Component#5 24
+    3300382: Component#5 25
+    3300384: Component#5 26
+    3300386: Component#5 27
+    3300388: Component#5 28
+    3300390: Component#5 29
+    3300392: Component#5 3
+    3300394: Component#5 30
+    3300396: Component#5 31
+    3300398: Component#5 32
+    3300400: Component#5 33
+    3300402: Component#5 34
+    3300404: Component#5 35
+    3300406: Component#5 36
+    3300408: Component#5 37
+    3300410: Component#5 38
+    3300412: Component#5 39
+    3300414: Component#5 4
+    3300416: Component#5 40
+    3300418: Component#5 41
+    3300420: Component#5 42
+    3300422: Component#5 43
+    3300424: Component#5 44
+    3300426: Component#5 45
+    3300428: Component#5 46
+    3300430: Component#5 47
+    3300432: Component#5 48
+    3300434: Component#5 49
+    3300436: Component#5 5
+    3300438: Component#5 50
+    3300440: Component#5 51
+    3300442: Component#5 52
+    3300444: Component#5 53
+    3300446: Component#5 54
+    3300448: Component#5 55
+    3300450: Component#5 56
+    3300452: Component#5 57
+    3300454: Component#5 58
+    3300456: Component#5 59
+    3300458: Component#5 6
+    3300460: Component#5 60
+    3300462: Component#5 61
+    3300464: Component#5 62
+    3300466: Component#5 63
+    3300468: Component#5 64
+    3300470: Component#5 65
+    3300472: Component#5 66
+    3300474: Component#5 67
+    3300476: Component#5 68
+    3300478: Component#5 69
+    3300480: Component#5 7
+    3300482: Component#5 70
+    3300484: Component#5 71
+    3300486: Component#5 72
+    3300488: Component#5 73
+    3300490: Component#5 74
+    3300492: Component#5 75
+    3300494: Component#5 76
+    3300496: Component#5 77
+    3300498: Component#5 78
+    3300500: Component#5 79
+    3300502: Component#5 8
+    3300504: Component#5 80
+    3300506: Component#5 81
+    3300508: Component#5 82
+    3300510: Component#5 83
+    3300512: Component#5 84
+    3300514: Component#5 85
+    3300516: Component#5 86
+    3300518: Component#5 87
+    3300520: Component#5 88
+    3300522: Component#5 89
+    3300524: Component#5 9
+    3300526: Component#5 90
+    3300528: Component#5 91
+    3300530: Component#5 92
+    3300532: Component#5 93
+    3300534: Component#5 94
+    3300536: Component#5 95
+    3300538: Component#9
+    3300540: Component#9 1
+    3300542: Component#9 2
+    3300544: Component#9 3
+    3300546: //RootNode
+    4300000: Mesh yo+mamamamamamamamamamama (1)
+    4300002: Mesh Component#1
+    4300004: Mesh Component#4
+    4300006: Mesh Component#2
+    4300008: Mesh Component#3
+    4300010: Mesh Component#9
+    4300012: Mesh Component#5
+    4300014: Mesh Component#11
+    4300016: Mesh Component#10
+    4300018: Mesh capsule
+    4300020: Mesh Component#12
+    4300022: Mesh Component#13
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

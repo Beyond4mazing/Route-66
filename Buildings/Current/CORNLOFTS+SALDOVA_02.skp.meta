@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 0f38d3cec2213c046bc02cb23e9f0846
+timeCreated: 1461400986
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1be130edc4059e4b1f4dc4d84ac7932e
+  longitude: 14.45547560834308
+  latitude: 50.09244579523997
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -48.313065, y: 27.19778, z: 32.492756}
+      lookAt: {x: 406.8266, y: -257.58017, z: -238.09436}
+      up: {x: 0.4071465, y: 0.88070506, z: -0.24205449}
+      fov: 54.626286
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: fasada_sklo
+    100004: fasada_sklo 1
+    100006: fasada_sklo02#1
+    100008: Google Earth Snapshot
+    100010: Group 5
+    100012: Group 5_MeshPart0
+    100014: Group 5_MeshPart1
+    100016: skla predni fasada
+    400000: //RootNode
+    400002: fasada_sklo
+    400004: fasada_sklo 1
+    400006: fasada_sklo02#1
+    400008: Google Earth Snapshot
+    400010: Group 5
+    400012: Group 5_MeshPart0
+    400014: Group 5_MeshPart1
+    400016: skla predni fasada
+    2300000: fasada_sklo
+    2300002: fasada_sklo 1
+    2300004: fasada_sklo02#1
+    2300006: Google Earth Snapshot
+    2300008: Group 5_MeshPart0
+    2300010: Group 5_MeshPart1
+    2300012: skla predni fasada
+    3300000: fasada_sklo
+    3300002: fasada_sklo 1
+    3300004: fasada_sklo02#1
+    3300006: Google Earth Snapshot
+    3300008: Group 5_MeshPart0
+    3300010: Group 5_MeshPart1
+    3300012: skla predni fasada
+    4300000: Mesh Google Earth Snapshot
+    4300002: Mesh Group 5_MeshPart0
+    4300004: Mesh Group 5_MeshPart1
+    4300006: Mesh skla predni fasada
+    4300008: Mesh fasada_sklo
+    4300010: Mesh fasada_sklo02#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

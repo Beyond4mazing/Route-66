@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 4fd74d1cca129604fb20768f04b19774
+timeCreated: 1461402849
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 7c0614b75edb1e41022d551acf68bbf4
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 5.1510453, y: 1.6402322, z: 2.9708118}
+      lookAt: {x: -2.6152596, y: -0.30385283, z: -1.1116126}
+      up: {x: -0.19148502, y: 0.9763206, z: -0.100655735}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 176
+    100004: Group 65
+    100006: Group 72
+    100008: Group 79
+    100010: KINGOL
+    100012: KINGOL 1
+    100014: Kingol Motors 2010-2013 logo
+    100016: Kingol Motors 2010-2013 logo 1
+    100018: sma_fort01
+    100020: sma_fort02
+    100022: sma_fort03
+    100024: sma_fort04
+    100026: sma_fort05
+    100028: sma_fort06
+    100030: sma_fort07
+    100032: sma_fort08
+    100034: sma_fort09
+    100036: sma_fort10
+    100038: sma_fort100
+    100040: sma_fort104
+    100042: sma_fort105
+    100044: sma_fort11
+    100046: sma_fort110
+    100048: sma_fort111
+    100050: sma_fort112
+    100052: sma_fort113
+    100054: sma_fort114
+    100056: sma_fort115
+    100058: sma_fort116
+    100060: sma_fort117
+    100062: sma_fort118
+    100064: sma_fort119
+    100066: sma_fort120
+    100068: sma_fort121
+    100070: sma_fort122
+    100072: sma_fort123
+    100074: sma_fort124
+    100076: sma_fort125
+    100078: sma_fort126
+    100080: sma_fort127
+    100082: sma_fort128
+    100084: sma_fort13
+    100086: sma_fort130
+    100088: sma_fort133
+    100090: sma_fort134
+    100092: sma_fort135
+    100094: sma_fort136
+    100096: sma_fort137
+    100098: sma_fort141
+    100100: sma_fort141 1
+    100102: sma_fort141 2
+    100104: sma_fort141 3
+    100106: sma_fort142
+    100108: sma_fort142 1
+    100110: sma_fort142 2
+    100112: sma_fort142 3
+    100114: sma_fort20
+    100116: sma_fort25
+    100118: sma_fort31
+    100120: sma_fort37
+    100122: sma_fort38
+    100124: sma_fort42
+    100126: sma_fort50
+    100128: sma_fort52
+    100130: sma_fort53
+    100132: sma_fort54
+    100134: sma_fort55
+    100136: sma_fort56
+    100138: sma_fort58
+    100140: sma_fort60
+    100142: sma_fort62
+    100144: sma_fort65
+    100146: sma_fort69
+    100148: sma_fort72
+    100150: sma_fort73
+    100152: sma_fort76
+    100154: sma_fort77
+    100156: sma_fort78
+    100158: sma_fort79
+    100160: sma_fort81
+    100162: sma_fort82
+    100164: sma_fort83
+    100166: sma_fort84
+    100168: sma_fort85
+    100170: sma_fort86
+    100172: sma_fort87
+    100174: sma_fort88
+    100176: sma_fort89
+    100178: sma_fort90
+    100180: sma_fort91
+    100182: sma_fort92
+    100184: sma_fort99
+    100186: Wheel1
+    100188: Wheel1 1
+    100190: Wheel1 2
+    100192: Wheel1 3
+    400000: //RootNode
+    400002: Group 176
+    400004: Group 65
+    400006: Group 72
+    400008: Group 79
+    400010: KINGOL
+    400012: KINGOL 1
+    400014: Kingol Motors 2010-2013 logo
+    400016: Kingol Motors 2010-2013 logo 1
+    400018: sma_fort01
+    400020: sma_fort02
+    400022: sma_fort03
+    400024: sma_fort04
+    400026: sma_fort05
+    400028: sma_fort06
+    400030: sma_fort07
+    400032: sma_fort08
+    400034: sma_fort09
+    400036: sma_fort10
+    400038: sma_fort100
+    400040: sma_fort104
+    400042: sma_fort105
+    400044: sma_fort11
+    400046: sma_fort110
+    400048: sma_fort111
+    400050: sma_fort112
+    400052: sma_fort113
+    400054: sma_fort114
+    400056: sma_fort115
+    400058: sma_fort116
+    400060: sma_fort117
+    400062: sma_fort118
+    400064: sma_fort119
+    400066: sma_fort120
+    400068: sma_fort121
+    400070: sma_fort122
+    400072: sma_fort123
+    400074: sma_fort124
+    400076: sma_fort125
+    400078: sma_fort126
+    400080: sma_fort127
+    400082: sma_fort128
+    400084: sma_fort13
+    400086: sma_fort130
+    400088: sma_fort133
+    400090: sma_fort134
+    400092: sma_fort135
+    400094: sma_fort136
+    400096: sma_fort137
+    400098: sma_fort141
+    400100: sma_fort141 1
+    400102: sma_fort141 2
+    400104: sma_fort141 3
+    400106: sma_fort142
+    400108: sma_fort142 1
+    400110: sma_fort142 2
+    400112: sma_fort142 3
+    400114: sma_fort20
+    400116: sma_fort25
+    400118: sma_fort31
+    400120: sma_fort37
+    400122: sma_fort38
+    400124: sma_fort42
+    400126: sma_fort50
+    400128: sma_fort52
+    400130: sma_fort53
+    400132: sma_fort54
+    400134: sma_fort55
+    400136: sma_fort56
+    400138: sma_fort58
+    400140: sma_fort60
+    400142: sma_fort62
+    400144: sma_fort65
+    400146: sma_fort69
+    400148: sma_fort72
+    400150: sma_fort73
+    400152: sma_fort76
+    400154: sma_fort77
+    400156: sma_fort78
+    400158: sma_fort79
+    400160: sma_fort81
+    400162: sma_fort82
+    400164: sma_fort83
+    400166: sma_fort84
+    400168: sma_fort85
+    400170: sma_fort86
+    400172: sma_fort87
+    400174: sma_fort88
+    400176: sma_fort89
+    400178: sma_fort90
+    400180: sma_fort91
+    400182: sma_fort92
+    400184: sma_fort99
+    400186: Wheel1
+    400188: Wheel1 1
+    400190: Wheel1 2
+    400192: Wheel1 3
+    2300000: //RootNode
+    2300002: Group 176
+    2300004: Group 65
+    2300006: Group 72
+    2300008: Group 79
+    2300010: KINGOL
+    2300012: KINGOL 1
+    2300014: Kingol Motors 2010-2013 logo
+    2300016: Kingol Motors 2010-2013 logo 1
+    2300018: sma_fort01
+    2300020: sma_fort02
+    2300022: sma_fort03
+    2300024: sma_fort04
+    2300026: sma_fort05
+    2300028: sma_fort06
+    2300030: sma_fort07
+    2300032: sma_fort08
+    2300034: sma_fort09
+    2300036: sma_fort10
+    2300038: sma_fort100
+    2300040: sma_fort104
+    2300042: sma_fort105
+    2300044: sma_fort11
+    2300046: sma_fort110
+    2300048: sma_fort111
+    2300050: sma_fort112
+    2300052: sma_fort113
+    2300054: sma_fort114
+    2300056: sma_fort115
+    2300058: sma_fort116
+    2300060: sma_fort117
+    2300062: sma_fort118
+    2300064: sma_fort119
+    2300066: sma_fort120
+    2300068: sma_fort121
+    2300070: sma_fort122
+    2300072: sma_fort123
+    2300074: sma_fort124
+    2300076: sma_fort125
+    2300078: sma_fort126
+    2300080: sma_fort127
+    2300082: sma_fort128
+    2300084: sma_fort13
+    2300086: sma_fort130
+    2300088: sma_fort133
+    2300090: sma_fort134
+    2300092: sma_fort135
+    2300094: sma_fort136
+    2300096: sma_fort137
+    2300098: sma_fort141
+    2300100: sma_fort141 1
+    2300102: sma_fort141 2
+    2300104: sma_fort141 3
+    2300106: sma_fort142
+    2300108: sma_fort142 1
+    2300110: sma_fort142 2
+    2300112: sma_fort142 3
+    2300114: sma_fort20
+    2300116: sma_fort25
+    2300118: sma_fort31
+    2300120: sma_fort37
+    2300122: sma_fort38
+    2300124: sma_fort42
+    2300126: sma_fort50
+    2300128: sma_fort52
+    2300130: sma_fort53
+    2300132: sma_fort54
+    2300134: sma_fort55
+    2300136: sma_fort56
+    2300138: sma_fort58
+    2300140: sma_fort60
+    2300142: sma_fort62
+    2300144: sma_fort65
+    2300146: sma_fort69
+    2300148: sma_fort72
+    2300150: sma_fort73
+    2300152: sma_fort76
+    2300154: sma_fort77
+    2300156: sma_fort78
+    2300158: sma_fort79
+    2300160: sma_fort81
+    2300162: sma_fort82
+    2300164: sma_fort83
+    2300166: sma_fort84
+    2300168: sma_fort85
+    2300170: sma_fort86
+    2300172: sma_fort87
+    2300174: sma_fort88
+    2300176: sma_fort89
+    2300178: sma_fort90
+    2300180: sma_fort91
+    2300182: sma_fort92
+    2300184: sma_fort99
+    3300000: //RootNode
+    3300002: Group 176
+    3300004: Group 65
+    3300006: Group 72
+    3300008: Group 79
+    3300010: KINGOL
+    3300012: KINGOL 1
+    3300014: Kingol Motors 2010-2013 logo
+    3300016: Kingol Motors 2010-2013 logo 1
+    3300018: sma_fort01
+    3300020: sma_fort02
+    3300022: sma_fort03
+    3300024: sma_fort04
+    3300026: sma_fort05
+    3300028: sma_fort06
+    3300030: sma_fort07
+    3300032: sma_fort08
+    3300034: sma_fort09
+    3300036: sma_fort10
+    3300038: sma_fort100
+    3300040: sma_fort104
+    3300042: sma_fort105
+    3300044: sma_fort11
+    3300046: sma_fort110
+    3300048: sma_fort111
+    3300050: sma_fort112
+    3300052: sma_fort113
+    3300054: sma_fort114
+    3300056: sma_fort115
+    3300058: sma_fort116
+    3300060: sma_fort117
+    3300062: sma_fort118
+    3300064: sma_fort119
+    3300066: sma_fort120
+    3300068: sma_fort121
+    3300070: sma_fort122
+    3300072: sma_fort123
+    3300074: sma_fort124
+    3300076: sma_fort125
+    3300078: sma_fort126
+    3300080: sma_fort127
+    3300082: sma_fort128
+    3300084: sma_fort13
+    3300086: sma_fort130
+    3300088: sma_fort133
+    3300090: sma_fort134
+    3300092: sma_fort135
+    3300094: sma_fort136
+    3300096: sma_fort137
+    3300098: sma_fort141
+    3300100: sma_fort141 1
+    3300102: sma_fort141 2
+    3300104: sma_fort141 3
+    3300106: sma_fort142
+    3300108: sma_fort142 1
+    3300110: sma_fort142 2
+    3300112: sma_fort142 3
+    3300114: sma_fort20
+    3300116: sma_fort25
+    3300118: sma_fort31
+    3300120: sma_fort37
+    3300122: sma_fort38
+    3300124: sma_fort42
+    3300126: sma_fort50
+    3300128: sma_fort52
+    3300130: sma_fort53
+    3300132: sma_fort54
+    3300134: sma_fort55
+    3300136: sma_fort56
+    3300138: sma_fort58
+    3300140: sma_fort60
+    3300142: sma_fort62
+    3300144: sma_fort65
+    3300146: sma_fort69
+    3300148: sma_fort72
+    3300150: sma_fort73
+    3300152: sma_fort76
+    3300154: sma_fort77
+    3300156: sma_fort78
+    3300158: sma_fort79
+    3300160: sma_fort81
+    3300162: sma_fort82
+    3300164: sma_fort83
+    3300166: sma_fort84
+    3300168: sma_fort85
+    3300170: sma_fort86
+    3300172: sma_fort87
+    3300174: sma_fort88
+    3300176: sma_fort89
+    3300178: sma_fort90
+    3300180: sma_fort91
+    3300182: sma_fort92
+    3300184: sma_fort99
+    4300000: Mesh 2011 Smart Fortwo W451
+    4300002: Mesh sma_fort02
+    4300004: Mesh sma_fort04
+    4300006: Mesh sma_fort05
+    4300008: Mesh sma_fort100
+    4300010: Mesh sma_fort10
+    4300012: Mesh sma_fort09
+    4300014: Mesh sma_fort08
+    4300016: Mesh sma_fort07
+    4300018: Mesh sma_fort06
+    4300020: Mesh sma_fort104
+    4300022: Mesh sma_fort105
+    4300024: Mesh sma_fort11
+    4300026: Mesh sma_fort110
+    4300028: Mesh sma_fort111
+    4300030: Mesh sma_fort112
+    4300032: Mesh sma_fort113
+    4300034: Mesh sma_fort114
+    4300036: Mesh sma_fort115
+    4300038: Mesh sma_fort116
+    4300040: Mesh sma_fort117
+    4300042: Mesh sma_fort118
+    4300044: Mesh sma_fort119
+    4300046: Mesh sma_fort120
+    4300048: Mesh sma_fort121
+    4300050: Mesh sma_fort122
+    4300052: Mesh sma_fort123
+    4300054: Mesh sma_fort125
+    4300056: Mesh sma_fort126
+    4300058: Mesh sma_fort127
+    4300060: Mesh sma_fort128
+    4300062: Mesh Group 65
+    4300064: Mesh sma_fort142
+    4300066: Mesh sma_fort141
+    4300068: Mesh sma_fort25
+    4300070: Mesh sma_fort82
+    4300072: Mesh sma_fort89
+    4300074: Mesh sma_fort124
+    4300076: Mesh sma_fort13
+    4300078: Mesh sma_fort130
+    4300080: Mesh sma_fort133
+    4300082: Mesh sma_fort134
+    4300084: Mesh sma_fort135
+    4300086: Mesh sma_fort136
+    4300088: Mesh sma_fort137
+    4300090: Mesh sma_fort87
+    4300092: Mesh sma_fort20
+    4300094: Mesh sma_fort31
+    4300096: Mesh sma_fort37
+    4300098: Mesh sma_fort38
+    4300100: Mesh sma_fort42
+    4300102: Mesh sma_fort50
+    4300104: Mesh sma_fort52
+    4300106: Mesh sma_fort54
+    4300108: Mesh sma_fort55
+    4300110: Mesh sma_fort58
+    4300112: Mesh sma_fort60
+    4300114: Mesh sma_fort62
+    4300116: Mesh sma_fort65
+    4300118: Mesh sma_fort69
+    4300120: Mesh sma_fort72
+    4300122: Mesh sma_fort76
+    4300124: Mesh sma_fort77
+    4300126: Mesh sma_fort78
+    4300128: Mesh sma_fort79
+    4300130: Mesh sma_fort81
+    4300132: Mesh sma_fort83
+    4300134: Mesh sma_fort84
+    4300136: Mesh sma_fort85
+    4300138: Mesh sma_fort86
+    4300140: Mesh sma_fort88
+    4300142: Mesh sma_fort90
+    4300144: Mesh sma_fort91
+    4300146: Mesh sma_fort92
+    4300148: Mesh sma_fort99
+    4300150: Mesh sma_fort73
+    4300152: Mesh sma_fort56
+    4300154: Mesh sma_fort53
+    4300156: Mesh sma_fort01
+    4300158: Mesh sma_fort03
+    4300160: Mesh Kingol Motors 2010-2013 logo
+    4300162: Mesh KINGOL
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
